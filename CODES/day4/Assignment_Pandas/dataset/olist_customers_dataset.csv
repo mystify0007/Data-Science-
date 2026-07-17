@@ -1,0 +1,3001 @@
+customer_id,customer_unique_id,customer_zip_code_prefix,customer_city,customer_state
+cust_000000,uniq_001578,45150,londrina,PR
+cust_000001,uniq_002114,2866,niteroi,RJ
+cust_000002,uniq_001632,67639,salvador,BA
+cust_000003,uniq_001514,46046,porto alegre,RS
+cust_000004,uniq_001191,77383,santos,SP
+cust_000005,uniq_000624,62188,sao luis,MA
+cust_000006,uniq_000715,78937,londrina,PR
+cust_000007,uniq_001901,46578,joinville,SC
+cust_000008,uniq_000178,1785,sao paulo,SP
+cust_000009,uniq_000215,13933,niteroi,RJ
+cust_000010,uniq_001011,46430,sao paulo,SP
+cust_000011,uniq_001974,40349,recife,PE
+cust_000012,uniq_001675,79641,uberlandia,MG
+cust_000013,uniq_001504,41753,feira de santana,BA
+cust_000014,uniq_001362,86157,niteroi,RJ
+cust_000015,uniq_000282,19583,sorocaba,SP
+cust_000016,uniq_000846,39102,juiz de fora,MG
+cust_000017,uniq_000202,75873,campinas,SP
+cust_000018,uniq_001933,13285,feira de santana,BA
+cust_000019,uniq_001914,32818,belo horizonte,MG
+cust_000020,uniq_000658,75433,maringa,PR
+cust_000021,uniq_000746,59309,campinas,SP
+cust_000022,uniq_000809,78028,sao luis,MA
+cust_000023,uniq_002267,52056,aparecida de goiania,GO
+cust_000024,uniq_001245,86059,maringa,PR
+cust_000025,uniq_001943,87864,ribeirao preto,SP
+cust_000026,uniq_001144,97480,duque de caxias,RJ
+cust_000027,uniq_001780,13079,sao paulo,SP
+cust_000028,uniq_001347,59527,sao paulo,SP
+cust_000029,uniq_000710,12311,caxias do sul,RS
+cust_000030,uniq_002234,23660,londrina,PR
+cust_000031,uniq_001807,30731,belem,PA
+cust_000032,uniq_001961,64967,ribeirao preto,SP
+cust_000033,uniq_002417,43689,sao paulo,SP
+cust_000034,uniq_000634,86608,duque de caxias,RJ
+cust_000035,uniq_000233,30555,sao paulo,SP
+cust_000036,uniq_001484,62105,santos,SP
+cust_000037,uniq_000831,76554,duque de caxias,RJ
+cust_000038,uniq_001111,98049,santos,SP
+cust_000039,uniq_000598,25281,contagem,MG
+cust_000040,uniq_001016,73626,duque de caxias,RJ
+cust_000041,uniq_001002,9392,feira de santana,BA
+cust_000042,uniq_000893,54799,caxias do sul,RS
+cust_000043,uniq_001892,41965,sorocaba,SP
+cust_000044,uniq_001511,95895,feira de santana,BA
+cust_000045,uniq_001209,77563,blumenau,SC
+cust_000046,uniq_000287,92796,ribeirao preto,SP
+cust_000047,uniq_001455,85204,sao paulo,SP
+cust_000048,uniq_000446,41655,caxias do sul,RS
+cust_000049,uniq_000801,73600,sorocaba,SP
+cust_000050,uniq_001058,4016,sao paulo,SP
+cust_000051,uniq_000360,56230,sorocaba,SP
+cust_000052,uniq_000993,5682,florianopolis,SC
+cust_000053,uniq_000680,72694,juiz de fora,MG
+cust_000054,uniq_002166,96704,pelotas,RS
+cust_000055,uniq_002192,68456,florianopolis,SC
+cust_000056,uniq_000011,84152,duque de caxias,RJ
+cust_000057,uniq_001536,24202,belo horizonte,MG
+cust_000058,uniq_001633,99395,santos,SP
+cust_000059,uniq_000963,55524,sorocaba,SP
+cust_000060,uniq_001196,67769,belo horizonte,MG
+cust_000061,uniq_002014,77289,rio de janeiro,RJ
+cust_000062,uniq_000963,64319,uberlandia,MG
+cust_000063,uniq_000164,32394,londrina,PR
+cust_000064,uniq_000949,61530,belo horizonte,MG
+cust_000065,uniq_000647,65742,uberlandia,MG
+cust_000066,uniq_000975,85875,uberlandia,MG
+cust_000067,uniq_000586,48666,sao paulo,SP
+cust_000068,uniq_000382,50677,campinas,SP
+cust_000069,uniq_002512,50812,rio de janeiro,RJ
+cust_000070,uniq_000328,12327,sorocaba,SP
+cust_000071,uniq_001800,9915,sorocaba,SP
+cust_000072,uniq_001829,3022,salvador,BA
+cust_000073,uniq_001575,66954,sorocaba,SP
+cust_000074,uniq_002324,42466,santos,SP
+cust_000075,uniq_000012,86702,sorocaba,SP
+cust_000076,uniq_000769,70520,sao paulo,SP
+cust_000077,uniq_000469,15001,uberlandia,MG
+cust_000078,uniq_001471,10907,contagem,MG
+cust_000079,uniq_001620,37244,florianopolis,SC
+cust_000080,uniq_002289,92172,juiz de fora,MG
+cust_000081,uniq_000968,5818,santos,SP
+cust_000082,uniq_000601,19552,joinville,SC
+cust_000083,uniq_002356,3933,santos,SP
+cust_000084,uniq_001716,41952,ribeirao preto,SP
+cust_000085,uniq_001950,98975,sao paulo,SP
+cust_000086,uniq_001134,68687,pelotas,RS
+cust_000087,uniq_001140,49853,duque de caxias,RJ
+cust_000088,uniq_000992,15295,sorocaba,SP
+cust_000089,uniq_001911,36196,duque de caxias,RJ
+cust_000090,uniq_000537,52929,ribeirao preto,SP
+cust_000091,uniq_002487,28212,caxias do sul,RS
+cust_000092,uniq_000448,70800,niteroi,RJ
+cust_000093,uniq_001175,98020,campinas,SP
+cust_000094,uniq_000802,21388,sorocaba,SP
+cust_000095,uniq_001638,25972,uberlandia,MG
+cust_000096,uniq_001735,13496,santos,SP
+cust_000097,uniq_002342,72844,sao paulo,SP
+cust_000098,uniq_002012,46709,campinas,SP
+cust_000099,uniq_000634,29091,belem,PA
+cust_000100,uniq_000526,22699,goiania,GO
+cust_000101,uniq_002260,7978,caxias do sul,RS
+cust_000102,uniq_001244,48139,ribeirao preto,SP
+cust_000103,uniq_000248,68643,belem,PA
+cust_000104,uniq_002103,24267,curitiba,PR
+cust_000105,uniq_001653,1161,caxias do sul,RS
+cust_000106,uniq_000065,47858,rio de janeiro,RJ
+cust_000107,uniq_001996,67898,sorocaba,SP
+cust_000108,uniq_001548,35154,ribeirao preto,SP
+cust_000109,uniq_001567,25787,goiania,GO
+cust_000110,uniq_002205,16274,rio de janeiro,RJ
+cust_000111,uniq_001263,74863,sao paulo,SP
+cust_000112,uniq_001176,86294,campinas,SP
+cust_000113,uniq_001574,77204,belo horizonte,MG
+cust_000114,uniq_000504,52300,sorocaba,SP
+cust_000115,uniq_000386,72685,salvador,BA
+cust_000116,uniq_002151,40294,londrina,PR
+cust_000117,uniq_000549,3423,caxias do sul,RS
+cust_000118,uniq_001286,37389,rio de janeiro,RJ
+cust_000119,uniq_000688,70669,juiz de fora,MG
+cust_000120,uniq_000587,65086,belo horizonte,MG
+cust_000121,uniq_001524,99023,juiz de fora,MG
+cust_000122,uniq_002046,99751,ribeirao preto,SP
+cust_000123,uniq_001126,25019,ribeirao preto,SP
+cust_000124,uniq_000353,1946,sorocaba,SP
+cust_000125,uniq_000623,28149,niteroi,RJ
+cust_000126,uniq_000419,87736,campinas,SP
+cust_000127,uniq_002251,81538,sao paulo,SP
+cust_000128,uniq_000814,10776,sorocaba,SP
+cust_000129,uniq_000953,16879,uberlandia,MG
+cust_000130,uniq_000181,56788,sorocaba,SP
+cust_000131,uniq_001137,66397,recife,PE
+cust_000132,uniq_002330,98250,juiz de fora,MG
+cust_000133,uniq_001044,75746,sorocaba,SP
+cust_000134,uniq_001660,21973,uberlandia,MG
+cust_000135,uniq_000463,4678,santos,SP
+cust_000136,uniq_000364,63727,caucaia,CE
+cust_000137,uniq_001865,55821,rio de janeiro,RJ
+cust_000138,uniq_000167,92252,florianopolis,SC
+cust_000139,uniq_001143,58011,campinas,SP
+cust_000140,uniq_000807,50622,niteroi,RJ
+cust_000141,uniq_000041,31040,rio de janeiro,RJ
+cust_000142,uniq_001354,9540,recife,PE
+cust_000143,uniq_002458,87757,juiz de fora,MG
+cust_000144,uniq_000176,82779,rio de janeiro,RJ
+cust_000145,uniq_002080,17112,sao paulo,SP
+cust_000146,uniq_001374,70684,santos,SP
+cust_000147,uniq_001845,37054,rio de janeiro,RJ
+cust_000148,uniq_000246,44266,rio de janeiro,RJ
+cust_000149,uniq_002216,85017,sao paulo,SP
+cust_000150,uniq_000029,84359,salvador,BA
+cust_000151,uniq_002312,19873,aparecida de goiania,GO
+cust_000152,uniq_001677,31453,sao paulo,SP
+cust_000153,uniq_000860,82315,contagem,MG
+cust_000154,uniq_000018,91781,ribeirao preto,SP
+cust_000155,uniq_001557,8827,caxias do sul,RS
+cust_000156,uniq_000222,83524,ribeirao preto,SP
+cust_000157,uniq_001552,49433,uberlandia,MG
+cust_000158,uniq_001971,59440,pelotas,RS
+cust_000159,uniq_000681,8457,curitiba,PR
+cust_000160,uniq_000608,68354,sao paulo,SP
+cust_000161,uniq_000565,68111,aparecida de goiania,GO
+cust_000162,uniq_000573,66607,sao paulo,SP
+cust_000163,uniq_000290,79268,sao paulo,SP
+cust_000164,uniq_000636,94658,belo horizonte,MG
+cust_000165,uniq_001681,85135,sao paulo,SP
+cust_000166,uniq_000771,74732,salvador,BA
+cust_000167,uniq_001991,98143,joinville,SC
+cust_000168,uniq_002089,67779,ribeirao preto,SP
+cust_000169,uniq_001940,67528,fortaleza,CE
+cust_000170,uniq_001375,54663,sorocaba,SP
+cust_000171,uniq_000806,77136,rio de janeiro,RJ
+cust_000172,uniq_002371,8066,ribeirao preto,SP
+cust_000173,uniq_000523,51069,olinda,PE
+cust_000174,uniq_001184,43106,santos,SP
+cust_000175,uniq_001156,91360,santos,SP
+cust_000176,uniq_001901,8183,rio de janeiro,RJ
+cust_000177,uniq_001394,64731,campo grande,MS
+cust_000178,uniq_002038,19248,goiania,GO
+cust_000179,uniq_002343,88470,maringa,PR
+cust_000180,uniq_000996,85332,goiania,GO
+cust_000181,uniq_002230,24309,goiania,GO
+cust_000182,uniq_000432,87298,duque de caxias,RJ
+cust_000183,uniq_002335,50176,ribeirao preto,SP
+cust_000184,uniq_000453,97132,curitiba,PR
+cust_000185,uniq_002168,73251,belo horizonte,MG
+cust_000186,uniq_000995,4411,sao paulo,SP
+cust_000187,uniq_002459,21069,sao paulo,SP
+cust_000188,uniq_000329,40955,londrina,PR
+cust_000189,uniq_001187,21922,sao paulo,SP
+cust_000190,uniq_002299,14110,olinda,PE
+cust_000191,uniq_000121,97825,sao paulo,SP
+cust_000192,uniq_000675,87036,sorocaba,SP
+cust_000193,uniq_000213,44025,feira de santana,BA
+cust_000194,uniq_000819,22287,campinas,SP
+cust_000195,uniq_000995,18999,santos,SP
+cust_000196,uniq_001578,91660,belo horizonte,MG
+cust_000197,uniq_000657,33814,brasilia,DF
+cust_000198,uniq_000404,2247,sao paulo,SP
+cust_000199,uniq_000433,40339,santos,SP
+cust_000200,uniq_002392,45979,curitiba,PR
+cust_000201,uniq_002430,62684,sao luis,MA
+cust_000202,uniq_000564,34529,niteroi,RJ
+cust_000203,uniq_000498,92377,campinas,SP
+cust_000204,uniq_000138,64709,sao paulo,SP
+cust_000205,uniq_002446,98671,santos,SP
+cust_000206,uniq_001800,37334,santos,SP
+cust_000207,uniq_001940,65517,pelotas,RS
+cust_000208,uniq_000740,37168,sao paulo,SP
+cust_000209,uniq_001634,70291,niteroi,RJ
+cust_000210,uniq_000152,74822,pelotas,RS
+cust_000211,uniq_001723,32860,uberlandia,MG
+cust_000212,uniq_001478,93828,sorocaba,SP
+cust_000213,uniq_000845,85857,blumenau,SC
+cust_000214,uniq_001811,89554,caxias do sul,RS
+cust_000215,uniq_001648,22561,maringa,PR
+cust_000216,uniq_001119,72066,sorocaba,SP
+cust_000217,uniq_000476,11531,campinas,SP
+cust_000218,uniq_000060,11445,olinda,PE
+cust_000219,uniq_002391,97351,sao paulo,SP
+cust_000220,uniq_000717,16136,sao paulo,SP
+cust_000221,uniq_000769,86548,rio de janeiro,RJ
+cust_000222,uniq_001736,43649,uberlandia,MG
+cust_000223,uniq_000650,31060,caucaia,CE
+cust_000224,uniq_000958,8276,ribeirao preto,SP
+cust_000225,uniq_001813,67841,olinda,PE
+cust_000226,uniq_001518,72411,sao paulo,SP
+cust_000227,uniq_001673,47234,contagem,MG
+cust_000228,uniq_000011,81183,uberlandia,MG
+cust_000229,uniq_001150,32989,santos,SP
+cust_000230,uniq_001211,55615,campinas,SP
+cust_000231,uniq_001612,29390,campinas,SP
+cust_000232,uniq_000386,58639,ananindeua,PA
+cust_000233,uniq_000406,14466,contagem,MG
+cust_000234,uniq_001944,48140,recife,PE
+cust_000235,uniq_001716,55381,florianopolis,SC
+cust_000236,uniq_002068,56097,duque de caxias,RJ
+cust_000237,uniq_000690,45212,joinville,SC
+cust_000238,uniq_002543,64712,campinas,SP
+cust_000239,uniq_000695,51705,ribeirao preto,SP
+cust_000240,uniq_001659,29040,salvador,BA
+cust_000241,uniq_000413,22320,joinville,SC
+cust_000242,uniq_002342,65123,sorocaba,SP
+cust_000243,uniq_000847,93921,niteroi,RJ
+cust_000244,uniq_002046,75565,belo horizonte,MG
+cust_000245,uniq_000844,64219,brasilia,DF
+cust_000246,uniq_002016,92230,belo horizonte,MG
+cust_000247,uniq_001158,90059,sao paulo,SP
+cust_000248,uniq_000159,51140,santos,SP
+cust_000249,uniq_000485,11817,niteroi,RJ
+cust_000250,uniq_001742,63793,belo horizonte,MG
+cust_000251,uniq_000492,62661,brasilia,DF
+cust_000252,uniq_000702,28457,duque de caxias,RJ
+cust_000253,uniq_001381,85095,sao paulo,SP
+cust_000254,uniq_000645,87124,campinas,SP
+cust_000255,uniq_000328,33760,maringa,PR
+cust_000256,uniq_001591,48208,florianopolis,SC
+cust_000257,uniq_001756,20318,campinas,SP
+cust_000258,uniq_001869,18656,campinas,SP
+cust_000259,uniq_002407,27236,contagem,MG
+cust_000260,uniq_000317,37212,campinas,SP
+cust_000261,uniq_001088,28020,feira de santana,BA
+cust_000262,uniq_000596,16011,sao paulo,SP
+cust_000263,uniq_002297,45272,sorocaba,SP
+cust_000264,uniq_001376,62732,olinda,PE
+cust_000265,uniq_000250,33270,sao paulo,SP
+cust_000266,uniq_001764,53820,sao paulo,SP
+cust_000267,uniq_000109,27855,sao paulo,SP
+cust_000268,uniq_000699,70681,campinas,SP
+cust_000269,uniq_001839,65202,campinas,SP
+cust_000270,uniq_001290,96045,ribeirao preto,SP
+cust_000271,uniq_001940,6250,campinas,SP
+cust_000272,uniq_001456,85460,ribeirao preto,SP
+cust_000273,uniq_002149,34695,uberlandia,MG
+cust_000274,uniq_001434,7538,porto alegre,RS
+cust_000275,uniq_000144,69284,campinas,SP
+cust_000276,uniq_000181,18000,campinas,SP
+cust_000277,uniq_001981,18408,duque de caxias,RJ
+cust_000278,uniq_000098,97984,brasilia,DF
+cust_000279,uniq_000960,22871,salvador,BA
+cust_000280,uniq_000041,55168,campinas,SP
+cust_000281,uniq_000773,20865,sorocaba,SP
+cust_000282,uniq_001517,13274,ribeirao preto,SP
+cust_000283,uniq_000441,1091,sao paulo,SP
+cust_000284,uniq_001188,2588,juiz de fora,MG
+cust_000285,uniq_002539,47902,sao paulo,SP
+cust_000286,uniq_000179,43965,sao paulo,SP
+cust_000287,uniq_000162,4856,santos,SP
+cust_000288,uniq_000691,35609,duque de caxias,RJ
+cust_000289,uniq_002108,28020,sao paulo,SP
+cust_000290,uniq_001034,57560,feira de santana,BA
+cust_000291,uniq_001630,99484,sao paulo,SP
+cust_000292,uniq_000086,69471,olinda,PE
+cust_000293,uniq_001874,91920,sao paulo,SP
+cust_000294,uniq_000171,20030,salvador,BA
+cust_000295,uniq_001814,22292,aparecida de goiania,GO
+cust_000296,uniq_000377,75329,sao luis,MA
+cust_000297,uniq_002189,31689,florianopolis,SC
+cust_000298,uniq_000755,85027,londrina,PR
+cust_000299,uniq_000468,46906,contagem,MG
+cust_000300,uniq_000858,20881,londrina,PR
+cust_000301,uniq_000002,84596,campinas,SP
+cust_000302,uniq_000421,55494,duque de caxias,RJ
+cust_000303,uniq_001526,80461,duque de caxias,RJ
+cust_000304,uniq_000766,45771,salvador,BA
+cust_000305,uniq_000902,13497,duque de caxias,RJ
+cust_000306,uniq_002058,68421,sorocaba,SP
+cust_000307,uniq_000315,13320,juiz de fora,MG
+cust_000308,uniq_001009,66665,ribeirao preto,SP
+cust_000309,uniq_000474,42256,ribeirao preto,SP
+cust_000310,uniq_001231,79360,duque de caxias,RJ
+cust_000311,uniq_000845,87138,campinas,SP
+cust_000312,uniq_000117,41329,ribeirao preto,SP
+cust_000313,uniq_000179,88325,sao paulo,SP
+cust_000314,uniq_002173,11978,campinas,SP
+cust_000315,uniq_000145,11629,sorocaba,SP
+cust_000316,uniq_001995,99359,campinas,SP
+cust_000317,uniq_002335,57854,pelotas,RS
+cust_000318,uniq_001187,45620,santos,SP
+cust_000319,uniq_000795,16411,fortaleza,CE
+cust_000320,uniq_001979,29610,goiania,GO
+cust_000321,uniq_002504,68926,niteroi,RJ
+cust_000322,uniq_000307,82348,santos,SP
+cust_000323,uniq_002459,91725,niteroi,RJ
+cust_000324,uniq_002406,41365,salvador,BA
+cust_000325,uniq_000363,46021,uberlandia,MG
+cust_000326,uniq_000139,17166,florianopolis,SC
+cust_000327,uniq_001823,9225,rio de janeiro,RJ
+cust_000328,uniq_000198,44346,juiz de fora,MG
+cust_000329,uniq_001532,58345,sao paulo,SP
+cust_000330,uniq_000165,11327,maringa,PR
+cust_000331,uniq_001761,41442,sao paulo,SP
+cust_000332,uniq_000590,64514,caxias do sul,RS
+cust_000333,uniq_000245,81278,brasilia,DF
+cust_000334,uniq_000169,93909,sorocaba,SP
+cust_000335,uniq_000480,34693,uberlandia,MG
+cust_000336,uniq_001378,39780,sao paulo,SP
+cust_000337,uniq_000195,87613,caxias do sul,RS
+cust_000338,uniq_002045,69633,campinas,SP
+cust_000339,uniq_001540,28096,olinda,PE
+cust_000340,uniq_000758,68828,sorocaba,SP
+cust_000341,uniq_002515,16594,caucaia,CE
+cust_000342,uniq_001679,45454,joinville,SC
+cust_000343,uniq_001713,31341,contagem,MG
+cust_000344,uniq_000443,99270,blumenau,SC
+cust_000345,uniq_001812,4456,joinville,SC
+cust_000346,uniq_001425,85818,caucaia,CE
+cust_000347,uniq_002510,28843,campinas,SP
+cust_000348,uniq_001218,4586,belo horizonte,MG
+cust_000349,uniq_001728,66350,ribeirao preto,SP
+cust_000350,uniq_000869,68124,contagem,MG
+cust_000351,uniq_000102,15085,sorocaba,SP
+cust_000352,uniq_000326,4794,uberlandia,MG
+cust_000353,uniq_002210,12025,uberlandia,MG
+cust_000354,uniq_001882,41477,niteroi,RJ
+cust_000355,uniq_000929,14106,niteroi,RJ
+cust_000356,uniq_001779,70600,maringa,PR
+cust_000357,uniq_000011,8677,joinville,SC
+cust_000358,uniq_000094,79101,duque de caxias,RJ
+cust_000359,uniq_001293,87588,uberlandia,MG
+cust_000360,uniq_001593,71967,recife,PE
+cust_000361,uniq_002389,94466,sorocaba,SP
+cust_000362,uniq_001937,93982,santos,SP
+cust_000363,uniq_000656,5609,ribeirao preto,SP
+cust_000364,uniq_002078,34853,contagem,MG
+cust_000365,uniq_001253,76246,campinas,SP
+cust_000366,uniq_002106,34623,maringa,PR
+cust_000367,uniq_000443,73977,caxias do sul,RS
+cust_000368,uniq_000066,77655,sorocaba,SP
+cust_000369,uniq_000147,99693,goiania,GO
+cust_000370,uniq_002526,33656,curitiba,PR
+cust_000371,uniq_000205,35438,sao paulo,SP
+cust_000372,uniq_002395,3403,sorocaba,SP
+cust_000373,uniq_001853,29265,santos,SP
+cust_000374,uniq_000372,28772,campinas,SP
+cust_000375,uniq_002203,45854,sorocaba,SP
+cust_000376,uniq_000367,42696,olinda,PE
+cust_000377,uniq_000365,85800,niteroi,RJ
+cust_000378,uniq_001467,77604,ribeirao preto,SP
+cust_000379,uniq_000735,73130,porto alegre,RS
+cust_000380,uniq_000741,1516,belo horizonte,MG
+cust_000381,uniq_000497,47690,olinda,PE
+cust_000382,uniq_001549,73229,florianopolis,SC
+cust_000383,uniq_000068,25211,duque de caxias,RJ
+cust_000384,uniq_000624,43059,sao paulo,SP
+cust_000385,uniq_001411,72973,cuiaba,MT
+cust_000386,uniq_001240,79658,pelotas,RS
+cust_000387,uniq_001784,85597,caucaia,CE
+cust_000388,uniq_000551,43551,ribeirao preto,SP
+cust_000389,uniq_001652,40594,feira de santana,BA
+cust_000390,uniq_001937,38887,belo horizonte,MG
+cust_000391,uniq_000989,67189,sorocaba,SP
+cust_000392,uniq_000654,42534,belo horizonte,MG
+cust_000393,uniq_001415,40620,porto alegre,RS
+cust_000394,uniq_001476,17659,sorocaba,SP
+cust_000395,uniq_000239,48370,rio de janeiro,RJ
+cust_000396,uniq_001441,24491,feira de santana,BA
+cust_000397,uniq_000393,52965,santos,SP
+cust_000398,uniq_001450,88976,duque de caxias,RJ
+cust_000399,uniq_002376,77796,rio de janeiro,RJ
+cust_000400,uniq_001369,48326,sao paulo,SP
+cust_000401,uniq_001941,97772,goiania,GO
+cust_000402,uniq_000789,98041,joinville,SC
+cust_000403,uniq_002352,44991,ribeirao preto,SP
+cust_000404,uniq_002072,76586,campo grande,MS
+cust_000405,uniq_002337,34888,brasilia,DF
+cust_000406,uniq_001891,87984,ribeirao preto,SP
+cust_000407,uniq_001655,37985,salvador,BA
+cust_000408,uniq_001338,26569,sorocaba,SP
+cust_000409,uniq_002367,14254,campo grande,MS
+cust_000410,uniq_002162,84420,uberlandia,MG
+cust_000411,uniq_001062,30396,juiz de fora,MG
+cust_000412,uniq_000218,81517,sorocaba,SP
+cust_000413,uniq_000009,9558,goiania,GO
+cust_000414,uniq_000595,50586,santos,SP
+cust_000415,uniq_000159,43361,santos,SP
+cust_000416,uniq_000539,44442,santos,SP
+cust_000417,uniq_000279,17568,curitiba,PR
+cust_000418,uniq_002501,8312,santos,SP
+cust_000419,uniq_000243,35293,goiania,GO
+cust_000420,uniq_001598,47552,belo horizonte,MG
+cust_000421,uniq_000896,79563,campinas,SP
+cust_000422,uniq_000444,46782,sao paulo,SP
+cust_000423,uniq_001788,25346,sorocaba,SP
+cust_000424,uniq_002474,26986,contagem,MG
+cust_000425,uniq_002016,61576,joinville,SC
+cust_000426,uniq_002486,44129,campinas,SP
+cust_000427,uniq_001505,90216,salvador,BA
+cust_000428,uniq_001717,44536,campinas,SP
+cust_000429,uniq_000373,57125,blumenau,SC
+cust_000430,uniq_002173,7326,recife,PE
+cust_000431,uniq_001907,20185,curitiba,PR
+cust_000432,uniq_000647,85165,pelotas,RS
+cust_000433,uniq_000904,35131,feira de santana,BA
+cust_000434,uniq_001557,42679,sao paulo,SP
+cust_000435,uniq_000033,59445,santos,SP
+cust_000436,uniq_002085,6727,ribeirao preto,SP
+cust_000437,uniq_000715,51153,niteroi,RJ
+cust_000438,uniq_000191,35271,londrina,PR
+cust_000439,uniq_000843,15713,contagem,MG
+cust_000440,uniq_002131,42414,feira de santana,BA
+cust_000441,uniq_000699,45232,sorocaba,SP
+cust_000442,uniq_001374,19446,curitiba,PR
+cust_000443,uniq_002070,54763,campinas,SP
+cust_000444,uniq_000085,74871,sao paulo,SP
+cust_000445,uniq_001937,27465,caxias do sul,RS
+cust_000446,uniq_000736,96685,varzea grande,MT
+cust_000447,uniq_001773,61631,uberlandia,MG
+cust_000448,uniq_000479,77534,ribeirao preto,SP
+cust_000449,uniq_000354,7945,uberlandia,MG
+cust_000450,uniq_002010,76978,sao paulo,SP
+cust_000451,uniq_002059,34323,brasilia,DF
+cust_000452,uniq_002502,71303,caxias do sul,RS
+cust_000453,uniq_001726,80622,santos,SP
+cust_000454,uniq_001187,25789,santos,SP
+cust_000455,uniq_000496,26668,santos,SP
+cust_000456,uniq_000752,6892,varzea grande,MT
+cust_000457,uniq_001652,60911,rio de janeiro,RJ
+cust_000458,uniq_000882,77628,florianopolis,SC
+cust_000459,uniq_001232,41592,contagem,MG
+cust_000460,uniq_000428,16937,belo horizonte,MG
+cust_000461,uniq_001120,32329,sao paulo,SP
+cust_000462,uniq_000606,40881,caucaia,CE
+cust_000463,uniq_000285,91696,santos,SP
+cust_000464,uniq_000336,13277,contagem,MG
+cust_000465,uniq_001321,34982,porto alegre,RS
+cust_000466,uniq_000934,64167,juiz de fora,MG
+cust_000467,uniq_000254,24430,fortaleza,CE
+cust_000468,uniq_001311,88587,sao paulo,SP
+cust_000469,uniq_000418,91019,rio de janeiro,RJ
+cust_000470,uniq_000039,38630,campinas,SP
+cust_000471,uniq_000337,74847,niteroi,RJ
+cust_000472,uniq_001143,75835,santos,SP
+cust_000473,uniq_002432,68497,santos,SP
+cust_000474,uniq_000616,19461,santos,SP
+cust_000475,uniq_000726,5903,sorocaba,SP
+cust_000476,uniq_000618,35374,duque de caxias,RJ
+cust_000477,uniq_000905,13989,uberlandia,MG
+cust_000478,uniq_001829,29939,juiz de fora,MG
+cust_000479,uniq_000821,64195,sorocaba,SP
+cust_000480,uniq_001676,59290,sorocaba,SP
+cust_000481,uniq_002290,21733,campinas,SP
+cust_000482,uniq_002412,2753,uberlandia,MG
+cust_000483,uniq_001435,23337,campinas,SP
+cust_000484,uniq_001818,46024,sao paulo,SP
+cust_000485,uniq_002343,78133,sao paulo,SP
+cust_000486,uniq_002006,37148,niteroi,RJ
+cust_000487,uniq_000764,29306,santos,SP
+cust_000488,uniq_000336,55583,juiz de fora,MG
+cust_000489,uniq_000292,8087,contagem,MG
+cust_000490,uniq_002249,23319,porto alegre,RS
+cust_000491,uniq_001418,4606,juiz de fora,MG
+cust_000492,uniq_000755,53035,uberlandia,MG
+cust_000493,uniq_000881,44874,santos,SP
+cust_000494,uniq_000718,58671,blumenau,SC
+cust_000495,uniq_002044,62095,niteroi,RJ
+cust_000496,uniq_001561,40116,rio de janeiro,RJ
+cust_000497,uniq_002242,87018,belo horizonte,MG
+cust_000498,uniq_000769,91905,santos,SP
+cust_000499,uniq_001205,11969,rio de janeiro,RJ
+cust_000500,uniq_000310,92091,curitiba,PR
+cust_000501,uniq_002476,20470,brasilia,DF
+cust_000502,uniq_001305,25592,olinda,PE
+cust_000503,uniq_001410,53449,rio de janeiro,RJ
+cust_000504,uniq_001054,3911,rio de janeiro,RJ
+cust_000505,uniq_000690,37046,joinville,SC
+cust_000506,uniq_002418,20264,sao paulo,SP
+cust_000507,uniq_001246,48770,salvador,BA
+cust_000508,uniq_001720,81653,duque de caxias,RJ
+cust_000509,uniq_000095,92487,ribeirao preto,SP
+cust_000510,uniq_000703,22005,sorocaba,SP
+cust_000511,uniq_002050,54943,salvador,BA
+cust_000512,uniq_000223,47966,ribeirao preto,SP
+cust_000513,uniq_000258,42096,campinas,SP
+cust_000514,uniq_002065,63636,campinas,SP
+cust_000515,uniq_000787,98953,sao paulo,SP
+cust_000516,uniq_000698,41118,sorocaba,SP
+cust_000517,uniq_001441,7456,curitiba,PR
+cust_000518,uniq_000497,91679,campinas,SP
+cust_000519,uniq_000109,93278,salvador,BA
+cust_000520,uniq_000011,32914,salvador,BA
+cust_000521,uniq_000202,50664,campinas,SP
+cust_000522,uniq_000404,86395,campinas,SP
+cust_000523,uniq_001775,50871,uberlandia,MG
+cust_000524,uniq_000759,48638,sorocaba,SP
+cust_000525,uniq_000183,92273,santos,SP
+cust_000526,uniq_000036,83050,caucaia,CE
+cust_000527,uniq_001216,51224,campo grande,MS
+cust_000528,uniq_002142,16988,maringa,PR
+cust_000529,uniq_000863,44401,ribeirao preto,SP
+cust_000530,uniq_000162,67968,pelotas,RS
+cust_000531,uniq_000581,27976,porto alegre,RS
+cust_000532,uniq_001273,54190,sorocaba,SP
+cust_000533,uniq_000481,66222,uberlandia,MG
+cust_000534,uniq_002495,9416,ribeirao preto,SP
+cust_000535,uniq_001946,57394,campinas,SP
+cust_000536,uniq_000878,74017,rio de janeiro,RJ
+cust_000537,uniq_002426,22219,sorocaba,SP
+cust_000538,uniq_000828,55292,santos,SP
+cust_000539,uniq_000357,71231,salvador,BA
+cust_000540,uniq_002392,5384,varzea grande,MT
+cust_000541,uniq_002447,64763,belo horizonte,MG
+cust_000542,uniq_000797,26714,salvador,BA
+cust_000543,uniq_001516,40335,campo grande,MS
+cust_000544,uniq_000441,65151,ribeirao preto,SP
+cust_000545,uniq_001636,1435,duque de caxias,RJ
+cust_000546,uniq_001759,2662,santos,SP
+cust_000547,uniq_001810,45211,campinas,SP
+cust_000548,uniq_001450,95026,maringa,PR
+cust_000549,uniq_001795,1599,rio de janeiro,RJ
+cust_000550,uniq_001415,79088,rio de janeiro,RJ
+cust_000551,uniq_002090,8424,sao paulo,SP
+cust_000552,uniq_000457,49403,sorocaba,SP
+cust_000553,uniq_001232,43629,goiania,GO
+cust_000554,uniq_001061,47340,sao paulo,SP
+cust_000555,uniq_001360,9109,sao paulo,SP
+cust_000556,uniq_000362,75598,sao paulo,SP
+cust_000557,uniq_000825,28290,duque de caxias,RJ
+cust_000558,uniq_002433,77333,uberlandia,MG
+cust_000559,uniq_000268,65892,rio de janeiro,RJ
+cust_000560,uniq_001620,55577,campinas,SP
+cust_000561,uniq_001694,31552,ribeirao preto,SP
+cust_000562,uniq_001210,65573,feira de santana,BA
+cust_000563,uniq_000085,99766,juiz de fora,MG
+cust_000564,uniq_000087,92388,belo horizonte,MG
+cust_000565,uniq_000702,91712,porto alegre,RS
+cust_000566,uniq_000261,22750,curitiba,PR
+cust_000567,uniq_000240,58945,campinas,SP
+cust_000568,uniq_000408,40382,ribeirao preto,SP
+cust_000569,uniq_000486,96726,niteroi,RJ
+cust_000570,uniq_002138,95057,campinas,SP
+cust_000571,uniq_001628,86932,feira de santana,BA
+cust_000572,uniq_000077,17110,niteroi,RJ
+cust_000573,uniq_001602,32570,curitiba,PR
+cust_000574,uniq_000348,71415,feira de santana,BA
+cust_000575,uniq_001073,75209,niteroi,RJ
+cust_000576,uniq_000097,35678,goiania,GO
+cust_000577,uniq_000229,14546,uberlandia,MG
+cust_000578,uniq_000338,14553,feira de santana,BA
+cust_000579,uniq_001105,68769,ribeirao preto,SP
+cust_000580,uniq_001180,45962,rio de janeiro,RJ
+cust_000581,uniq_000899,49616,duque de caxias,RJ
+cust_000582,uniq_001581,81720,campinas,SP
+cust_000583,uniq_001837,2665,santos,SP
+cust_000584,uniq_001858,75697,goiania,GO
+cust_000585,uniq_001476,28148,juiz de fora,MG
+cust_000586,uniq_001391,93188,sorocaba,SP
+cust_000587,uniq_001253,95581,sao paulo,SP
+cust_000588,uniq_000606,50710,santos,SP
+cust_000589,uniq_001241,32267,ribeirao preto,SP
+cust_000590,uniq_000025,24084,olinda,PE
+cust_000591,uniq_002464,18963,rio de janeiro,RJ
+cust_000592,uniq_000943,99920,sorocaba,SP
+cust_000593,uniq_001928,19565,uberlandia,MG
+cust_000594,uniq_002439,45209,campinas,SP
+cust_000595,uniq_001267,48441,campinas,SP
+cust_000596,uniq_002197,68238,pelotas,RS
+cust_000597,uniq_001222,84421,contagem,MG
+cust_000598,uniq_000337,56241,varzea grande,MT
+cust_000599,uniq_000067,76041,juiz de fora,MG
+cust_000600,uniq_000345,57101,duque de caxias,RJ
+cust_000601,uniq_002403,44247,maringa,PR
+cust_000602,uniq_001211,16617,aparecida de goiania,GO
+cust_000603,uniq_000813,21663,pelotas,RS
+cust_000604,uniq_001137,43808,ananindeua,PA
+cust_000605,uniq_000652,5560,joinville,SC
+cust_000606,uniq_002219,32319,brasilia,DF
+cust_000607,uniq_002548,46799,sao paulo,SP
+cust_000608,uniq_000216,47790,curitiba,PR
+cust_000609,uniq_001832,81661,duque de caxias,RJ
+cust_000610,uniq_000855,96797,uberlandia,MG
+cust_000611,uniq_000120,73237,juiz de fora,MG
+cust_000612,uniq_002351,8873,ananindeua,PA
+cust_000613,uniq_000157,41451,varzea grande,MT
+cust_000614,uniq_000525,73260,ribeirao preto,SP
+cust_000615,uniq_000065,59874,curitiba,PR
+cust_000616,uniq_001201,46320,londrina,PR
+cust_000617,uniq_001529,44187,sorocaba,SP
+cust_000618,uniq_000817,41189,sorocaba,SP
+cust_000619,uniq_000182,58322,campinas,SP
+cust_000620,uniq_000296,18699,maringa,PR
+cust_000621,uniq_002380,52232,niteroi,RJ
+cust_000622,uniq_002055,21380,varzea grande,MT
+cust_000623,uniq_002389,68415,niteroi,RJ
+cust_000624,uniq_001353,86609,sao luis,MA
+cust_000625,uniq_001392,51262,ribeirao preto,SP
+cust_000626,uniq_002004,39370,florianopolis,SC
+cust_000627,uniq_001572,94119,campinas,SP
+cust_000628,uniq_001112,66308,contagem,MG
+cust_000629,uniq_000744,43374,blumenau,SC
+cust_000630,uniq_001238,3849,recife,PE
+cust_000631,uniq_000163,2575,salvador,BA
+cust_000632,uniq_000490,22926,ribeirao preto,SP
+cust_000633,uniq_001880,24400,santos,SP
+cust_000634,uniq_002213,72417,sorocaba,SP
+cust_000635,uniq_000259,50559,sao paulo,SP
+cust_000636,uniq_000247,99994,caxias do sul,RS
+cust_000637,uniq_000218,54516,porto alegre,RS
+cust_000638,uniq_002018,90408,maringa,PR
+cust_000639,uniq_000793,55685,brasilia,DF
+cust_000640,uniq_000833,36459,maringa,PR
+cust_000641,uniq_000031,71739,florianopolis,SC
+cust_000642,uniq_002480,45492,campinas,SP
+cust_000643,uniq_001106,28189,sorocaba,SP
+cust_000644,uniq_002033,47848,belo horizonte,MG
+cust_000645,uniq_001804,66824,feira de santana,BA
+cust_000646,uniq_000361,38179,sorocaba,SP
+cust_000647,uniq_002043,70698,rio de janeiro,RJ
+cust_000648,uniq_001403,98089,porto alegre,RS
+cust_000649,uniq_001540,41716,ribeirao preto,SP
+cust_000650,uniq_000510,30227,sao paulo,SP
+cust_000651,uniq_002159,40814,aparecida de goiania,GO
+cust_000652,uniq_002375,83987,porto alegre,RS
+cust_000653,uniq_001036,18713,santos,SP
+cust_000654,uniq_000235,97393,salvador,BA
+cust_000655,uniq_002164,41984,ribeirao preto,SP
+cust_000656,uniq_002262,84318,feira de santana,BA
+cust_000657,uniq_001291,78894,santos,SP
+cust_000658,uniq_001476,78573,contagem,MG
+cust_000659,uniq_000568,90987,ribeirao preto,SP
+cust_000660,uniq_000172,19300,sorocaba,SP
+cust_000661,uniq_002407,59767,brasilia,DF
+cust_000662,uniq_001231,10801,campinas,SP
+cust_000663,uniq_000701,30637,campinas,SP
+cust_000664,uniq_001767,5018,campinas,SP
+cust_000665,uniq_000066,68545,pelotas,RS
+cust_000666,uniq_000203,61164,blumenau,SC
+cust_000667,uniq_000618,74273,campo grande,MS
+cust_000668,uniq_001149,18446,campinas,SP
+cust_000669,uniq_000935,33888,sao paulo,SP
+cust_000670,uniq_000477,67957,ribeirao preto,SP
+cust_000671,uniq_000895,82827,contagem,MG
+cust_000672,uniq_000851,88681,campo grande,MS
+cust_000673,uniq_001337,8295,caxias do sul,RS
+cust_000674,uniq_001434,40850,belo horizonte,MG
+cust_000675,uniq_002251,2064,sorocaba,SP
+cust_000676,uniq_002057,82032,aparecida de goiania,GO
+cust_000677,uniq_000745,13173,duque de caxias,RJ
+cust_000678,uniq_002301,82391,santos,SP
+cust_000679,uniq_001327,16444,campinas,SP
+cust_000680,uniq_000478,2521,santos,SP
+cust_000681,uniq_000867,88013,sao paulo,SP
+cust_000682,uniq_001891,44441,campinas,SP
+cust_000683,uniq_002095,43072,niteroi,RJ
+cust_000684,uniq_000954,65026,uberlandia,MG
+cust_000685,uniq_000401,28217,sao paulo,SP
+cust_000686,uniq_000489,69388,duque de caxias,RJ
+cust_000687,uniq_000263,43478,fortaleza,CE
+cust_000688,uniq_001781,27993,londrina,PR
+cust_000689,uniq_001282,40088,niteroi,RJ
+cust_000690,uniq_001150,1608,santos,SP
+cust_000691,uniq_001713,30844,aparecida de goiania,GO
+cust_000692,uniq_002113,59552,ribeirao preto,SP
+cust_000693,uniq_002028,14651,sorocaba,SP
+cust_000694,uniq_000349,12736,goiania,GO
+cust_000695,uniq_001503,65934,rio de janeiro,RJ
+cust_000696,uniq_002250,43394,londrina,PR
+cust_000697,uniq_001973,14523,contagem,MG
+cust_000698,uniq_000840,75035,uberlandia,MG
+cust_000699,uniq_001001,77766,santos,SP
+cust_000700,uniq_002269,4441,sao paulo,SP
+cust_000701,uniq_000083,20966,santos,SP
+cust_000702,uniq_001339,37663,ribeirao preto,SP
+cust_000703,uniq_000296,73405,brasilia,DF
+cust_000704,uniq_002281,8328,santos,SP
+cust_000705,uniq_000098,80752,juiz de fora,MG
+cust_000706,uniq_000059,32624,blumenau,SC
+cust_000707,uniq_000838,13407,blumenau,SC
+cust_000708,uniq_000510,86472,rio de janeiro,RJ
+cust_000709,uniq_001263,9587,duque de caxias,RJ
+cust_000710,uniq_000763,13828,campo grande,MS
+cust_000711,uniq_000908,95006,caxias do sul,RS
+cust_000712,uniq_001440,52436,joinville,SC
+cust_000713,uniq_001429,46841,goiania,GO
+cust_000714,uniq_002384,69047,florianopolis,SC
+cust_000715,uniq_001225,63392,sorocaba,SP
+cust_000716,uniq_001438,61741,contagem,MG
+cust_000717,uniq_001728,3302,sorocaba,SP
+cust_000718,uniq_000444,55621,juiz de fora,MG
+cust_000719,uniq_001700,28592,fortaleza,CE
+cust_000720,uniq_002197,80958,duque de caxias,RJ
+cust_000721,uniq_000811,51033,niteroi,RJ
+cust_000722,uniq_000454,13252,santos,SP
+cust_000723,uniq_000882,88734,caucaia,CE
+cust_000724,uniq_000701,29143,ribeirao preto,SP
+cust_000725,uniq_001492,27872,sorocaba,SP
+cust_000726,uniq_002202,93690,ribeirao preto,SP
+cust_000727,uniq_001520,77743,ribeirao preto,SP
+cust_000728,uniq_000320,86091,duque de caxias,RJ
+cust_000729,uniq_000802,66558,rio de janeiro,RJ
+cust_000730,uniq_001757,91137,ribeirao preto,SP
+cust_000731,uniq_000842,12411,campinas,SP
+cust_000732,uniq_001495,60396,santos,SP
+cust_000733,uniq_001769,30043,ribeirao preto,SP
+cust_000734,uniq_000839,40443,campinas,SP
+cust_000735,uniq_001650,24548,pelotas,RS
+cust_000736,uniq_001015,21298,santos,SP
+cust_000737,uniq_000344,44809,campinas,SP
+cust_000738,uniq_000949,91909,campinas,SP
+cust_000739,uniq_001124,63897,santos,SP
+cust_000740,uniq_000006,35585,sorocaba,SP
+cust_000741,uniq_002276,43908,sao paulo,SP
+cust_000742,uniq_001346,53453,brasilia,DF
+cust_000743,uniq_000092,25208,santos,SP
+cust_000744,uniq_002213,52598,duque de caxias,RJ
+cust_000745,uniq_002180,69891,niteroi,RJ
+cust_000746,uniq_000030,25073,santos,SP
+cust_000747,uniq_000416,58862,niteroi,RJ
+cust_000748,uniq_000927,71127,florianopolis,SC
+cust_000749,uniq_001293,52411,feira de santana,BA
+cust_000750,uniq_001850,29903,sorocaba,SP
+cust_000751,uniq_001082,55886,santos,SP
+cust_000752,uniq_001559,79529,santos,SP
+cust_000753,uniq_000025,22967,rio de janeiro,RJ
+cust_000754,uniq_001679,57892,pelotas,RS
+cust_000755,uniq_002334,68361,sorocaba,SP
+cust_000756,uniq_001341,32827,sorocaba,SP
+cust_000757,uniq_001160,39362,recife,PE
+cust_000758,uniq_000757,88996,ribeirao preto,SP
+cust_000759,uniq_002433,36982,niteroi,RJ
+cust_000760,uniq_000084,60224,porto alegre,RS
+cust_000761,uniq_000731,15823,campinas,SP
+cust_000762,uniq_000353,92670,campinas,SP
+cust_000763,uniq_002209,60086,santos,SP
+cust_000764,uniq_001230,76275,goiania,GO
+cust_000765,uniq_002352,60663,ribeirao preto,SP
+cust_000766,uniq_001696,36193,santos,SP
+cust_000767,uniq_001419,34689,sorocaba,SP
+cust_000768,uniq_001319,70419,campinas,SP
+cust_000769,uniq_000516,86124,belo horizonte,MG
+cust_000770,uniq_001433,13636,campinas,SP
+cust_000771,uniq_001747,84699,juiz de fora,MG
+cust_000772,uniq_002461,83169,uberlandia,MG
+cust_000773,uniq_001399,11796,feira de santana,BA
+cust_000774,uniq_002394,11708,sorocaba,SP
+cust_000775,uniq_002408,69808,salvador,BA
+cust_000776,uniq_001332,84436,contagem,MG
+cust_000777,uniq_001120,39989,campinas,SP
+cust_000778,uniq_000363,64422,londrina,PR
+cust_000779,uniq_000684,99970,salvador,BA
+cust_000780,uniq_002241,32956,ribeirao preto,SP
+cust_000781,uniq_000352,23277,aparecida de goiania,GO
+cust_000782,uniq_001012,99169,rio de janeiro,RJ
+cust_000783,uniq_001781,28771,uberlandia,MG
+cust_000784,uniq_000613,47786,varzea grande,MT
+cust_000785,uniq_002483,44768,santos,SP
+cust_000786,uniq_001656,52798,joinville,SC
+cust_000787,uniq_000072,27602,ribeirao preto,SP
+cust_000788,uniq_000630,68222,florianopolis,SC
+cust_000789,uniq_001888,69506,juiz de fora,MG
+cust_000790,uniq_002201,20855,campinas,SP
+cust_000791,uniq_002363,48609,ribeirao preto,SP
+cust_000792,uniq_002170,6678,santos,SP
+cust_000793,uniq_000190,22866,ribeirao preto,SP
+cust_000794,uniq_001860,98733,ribeirao preto,SP
+cust_000795,uniq_000280,51130,sao paulo,SP
+cust_000796,uniq_000195,62649,sao paulo,SP
+cust_000797,uniq_001764,88989,sorocaba,SP
+cust_000798,uniq_001219,71659,caxias do sul,RS
+cust_000799,uniq_001652,79446,porto alegre,RS
+cust_000800,uniq_002171,71492,curitiba,PR
+cust_000801,uniq_000175,50383,sao paulo,SP
+cust_000802,uniq_001345,63624,aparecida de goiania,GO
+cust_000803,uniq_002127,29560,juiz de fora,MG
+cust_000804,uniq_001122,89150,campinas,SP
+cust_000805,uniq_001334,18808,campinas,SP
+cust_000806,uniq_001269,88525,caxias do sul,RS
+cust_000807,uniq_002313,87959,sao paulo,SP
+cust_000808,uniq_000127,15085,niteroi,RJ
+cust_000809,uniq_002238,71305,campo grande,MS
+cust_000810,uniq_002081,98976,ribeirao preto,SP
+cust_000811,uniq_002071,57643,sorocaba,SP
+cust_000812,uniq_001051,34693,campo grande,MS
+cust_000813,uniq_001315,88063,uberlandia,MG
+cust_000814,uniq_000940,51742,sao paulo,SP
+cust_000815,uniq_000641,13047,goiania,GO
+cust_000816,uniq_002232,25677,brasilia,DF
+cust_000817,uniq_001290,68565,niteroi,RJ
+cust_000818,uniq_001844,46080,contagem,MG
+cust_000819,uniq_000257,22454,sao paulo,SP
+cust_000820,uniq_002011,80103,ribeirao preto,SP
+cust_000821,uniq_001680,12937,uberlandia,MG
+cust_000822,uniq_002543,22687,ribeirao preto,SP
+cust_000823,uniq_000341,47094,uberlandia,MG
+cust_000824,uniq_001377,4912,salvador,BA
+cust_000825,uniq_001303,39351,sao paulo,SP
+cust_000826,uniq_001372,91084,contagem,MG
+cust_000827,uniq_000138,94175,santos,SP
+cust_000828,uniq_001206,87322,brasilia,DF
+cust_000829,uniq_000763,33073,sorocaba,SP
+cust_000830,uniq_001574,7422,juiz de fora,MG
+cust_000831,uniq_000591,81674,belo horizonte,MG
+cust_000832,uniq_001109,37958,campinas,SP
+cust_000833,uniq_001581,75133,porto alegre,RS
+cust_000834,uniq_000163,12797,porto alegre,RS
+cust_000835,uniq_002006,67123,belo horizonte,MG
+cust_000836,uniq_001825,59051,curitiba,PR
+cust_000837,uniq_000146,92118,varzea grande,MT
+cust_000838,uniq_000165,11090,sao paulo,SP
+cust_000839,uniq_002168,41384,rio de janeiro,RJ
+cust_000840,uniq_000722,99003,sao paulo,SP
+cust_000841,uniq_002194,39577,blumenau,SC
+cust_000842,uniq_001273,66145,niteroi,RJ
+cust_000843,uniq_000872,16933,sorocaba,SP
+cust_000844,uniq_000697,73111,sao paulo,SP
+cust_000845,uniq_001680,28300,brasilia,DF
+cust_000846,uniq_000279,57649,campinas,SP
+cust_000847,uniq_001026,88096,caxias do sul,RS
+cust_000848,uniq_000881,66443,ribeirao preto,SP
+cust_000849,uniq_000393,47963,belem,PA
+cust_000850,uniq_000899,19815,campinas,SP
+cust_000851,uniq_001348,34793,santos,SP
+cust_000852,uniq_001727,85077,salvador,BA
+cust_000853,uniq_000220,22394,goiania,GO
+cust_000854,uniq_002224,65973,ribeirao preto,SP
+cust_000855,uniq_002240,49010,niteroi,RJ
+cust_000856,uniq_001764,32766,londrina,PR
+cust_000857,uniq_002356,71949,brasilia,DF
+cust_000858,uniq_001091,36851,santos,SP
+cust_000859,uniq_002095,29382,duque de caxias,RJ
+cust_000860,uniq_001854,53395,londrina,PR
+cust_000861,uniq_001434,76013,londrina,PR
+cust_000862,uniq_000457,86549,blumenau,SC
+cust_000863,uniq_001421,63348,belo horizonte,MG
+cust_000864,uniq_002298,66535,sao paulo,SP
+cust_000865,uniq_002510,78967,goiania,GO
+cust_000866,uniq_001142,27655,brasilia,DF
+cust_000867,uniq_000632,25839,florianopolis,SC
+cust_000868,uniq_001906,48913,campinas,SP
+cust_000869,uniq_000193,63471,sao paulo,SP
+cust_000870,uniq_000385,64952,maringa,PR
+cust_000871,uniq_001432,16219,ribeirao preto,SP
+cust_000872,uniq_002525,78279,sao luis,MA
+cust_000873,uniq_000838,37015,ribeirao preto,SP
+cust_000874,uniq_001130,87850,porto alegre,RS
+cust_000875,uniq_000821,72710,brasilia,DF
+cust_000876,uniq_001123,98310,campinas,SP
+cust_000877,uniq_000018,63534,ribeirao preto,SP
+cust_000878,uniq_001516,53221,contagem,MG
+cust_000879,uniq_001520,19598,contagem,MG
+cust_000880,uniq_000804,40467,ribeirao preto,SP
+cust_000881,uniq_000673,85975,uberlandia,MG
+cust_000882,uniq_001942,38820,olinda,PE
+cust_000883,uniq_000479,6281,rio de janeiro,RJ
+cust_000884,uniq_000120,25267,sao paulo,SP
+cust_000885,uniq_000103,59925,sorocaba,SP
+cust_000886,uniq_002248,63281,sao paulo,SP
+cust_000887,uniq_000929,98397,campinas,SP
+cust_000888,uniq_000259,93450,sao paulo,SP
+cust_000889,uniq_002241,53618,porto alegre,RS
+cust_000890,uniq_000378,55896,campinas,SP
+cust_000891,uniq_000858,80265,fortaleza,CE
+cust_000892,uniq_000052,5815,santos,SP
+cust_000893,uniq_001731,59922,sorocaba,SP
+cust_000894,uniq_001783,47925,curitiba,PR
+cust_000895,uniq_001929,78524,brasilia,DF
+cust_000896,uniq_000670,80234,sorocaba,SP
+cust_000897,uniq_000836,65903,santos,SP
+cust_000898,uniq_002392,66070,santos,SP
+cust_000899,uniq_002095,69421,niteroi,RJ
+cust_000900,uniq_000094,58432,rio de janeiro,RJ
+cust_000901,uniq_001764,23553,sao paulo,SP
+cust_000902,uniq_002072,29167,santos,SP
+cust_000903,uniq_001426,74439,duque de caxias,RJ
+cust_000904,uniq_001631,62217,caucaia,CE
+cust_000905,uniq_000002,24552,contagem,MG
+cust_000906,uniq_000076,87907,niteroi,RJ
+cust_000907,uniq_000089,98082,campinas,SP
+cust_000908,uniq_000405,62981,sao paulo,SP
+cust_000909,uniq_002526,23550,santos,SP
+cust_000910,uniq_001617,93888,maringa,PR
+cust_000911,uniq_001994,24431,brasilia,DF
+cust_000912,uniq_000753,43813,goiania,GO
+cust_000913,uniq_002390,86007,varzea grande,MT
+cust_000914,uniq_000507,52546,varzea grande,MT
+cust_000915,uniq_002300,25055,fortaleza,CE
+cust_000916,uniq_000078,8930,santos,SP
+cust_000917,uniq_000052,36729,ribeirao preto,SP
+cust_000918,uniq_000201,67536,santos,SP
+cust_000919,uniq_002019,71748,contagem,MG
+cust_000920,uniq_000656,23070,sorocaba,SP
+cust_000921,uniq_001150,16715,feira de santana,BA
+cust_000922,uniq_001201,70443,juiz de fora,MG
+cust_000923,uniq_002013,16747,duque de caxias,RJ
+cust_000924,uniq_000889,7361,sorocaba,SP
+cust_000925,uniq_000017,49148,sorocaba,SP
+cust_000926,uniq_000985,57519,campinas,SP
+cust_000927,uniq_000734,25125,salvador,BA
+cust_000928,uniq_001863,21910,belo horizonte,MG
+cust_000929,uniq_001915,24329,curitiba,PR
+cust_000930,uniq_000234,34939,ribeirao preto,SP
+cust_000931,uniq_002022,1914,santos,SP
+cust_000932,uniq_000179,2163,santos,SP
+cust_000933,uniq_001580,37674,curitiba,PR
+cust_000934,uniq_000992,2970,maringa,PR
+cust_000935,uniq_000768,32506,campinas,SP
+cust_000936,uniq_001232,58509,caucaia,CE
+cust_000937,uniq_000791,4084,sao paulo,SP
+cust_000938,uniq_002024,62164,goiania,GO
+cust_000939,uniq_002465,62501,sao paulo,SP
+cust_000940,uniq_002080,57759,campinas,SP
+cust_000941,uniq_001119,63038,feira de santana,BA
+cust_000942,uniq_001283,81113,santos,SP
+cust_000943,uniq_001140,8009,santos,SP
+cust_000944,uniq_002023,17713,rio de janeiro,RJ
+cust_000945,uniq_001408,32386,campinas,SP
+cust_000946,uniq_001193,69122,pelotas,RS
+cust_000947,uniq_001044,87406,feira de santana,BA
+cust_000948,uniq_000956,91946,brasilia,DF
+cust_000949,uniq_001409,58633,ribeirao preto,SP
+cust_000950,uniq_001756,41600,duque de caxias,RJ
+cust_000951,uniq_001102,41785,santos,SP
+cust_000952,uniq_002056,6922,sao paulo,SP
+cust_000953,uniq_002108,47044,ribeirao preto,SP
+cust_000954,uniq_001094,51771,caucaia,CE
+cust_000955,uniq_002318,21619,brasilia,DF
+cust_000956,uniq_000441,77026,londrina,PR
+cust_000957,uniq_002376,81375,rio de janeiro,RJ
+cust_000958,uniq_000749,30899,duque de caxias,RJ
+cust_000959,uniq_001438,91485,duque de caxias,RJ
+cust_000960,uniq_000723,11602,rio de janeiro,RJ
+cust_000961,uniq_001127,91154,rio de janeiro,RJ
+cust_000962,uniq_000867,77039,ribeirao preto,SP
+cust_000963,uniq_001798,23169,campinas,SP
+cust_000964,uniq_000207,65365,caucaia,CE
+cust_000965,uniq_002137,31762,duque de caxias,RJ
+cust_000966,uniq_002304,80172,fortaleza,CE
+cust_000967,uniq_001435,16901,sao paulo,SP
+cust_000968,uniq_001395,25245,contagem,MG
+cust_000969,uniq_001784,31412,santos,SP
+cust_000970,uniq_000507,20768,sorocaba,SP
+cust_000971,uniq_001911,33947,campinas,SP
+cust_000972,uniq_000557,60655,campinas,SP
+cust_000973,uniq_001724,63676,aparecida de goiania,GO
+cust_000974,uniq_000779,55838,ribeirao preto,SP
+cust_000975,uniq_001902,19774,contagem,MG
+cust_000976,uniq_002017,21041,duque de caxias,RJ
+cust_000977,uniq_000532,92019,ribeirao preto,SP
+cust_000978,uniq_001574,25882,duque de caxias,RJ
+cust_000979,uniq_001270,11206,ribeirao preto,SP
+cust_000980,uniq_000749,45944,cuiaba,MT
+cust_000981,uniq_001500,1680,florianopolis,SC
+cust_000982,uniq_002531,34922,londrina,PR
+cust_000983,uniq_000006,85638,duque de caxias,RJ
+cust_000984,uniq_002440,27471,sorocaba,SP
+cust_000985,uniq_002182,70672,olinda,PE
+cust_000986,uniq_001349,49491,santos,SP
+cust_000987,uniq_001555,36180,santos,SP
+cust_000988,uniq_000941,66495,sao paulo,SP
+cust_000989,uniq_000329,59953,florianopolis,SC
+cust_000990,uniq_001457,32504,belo horizonte,MG
+cust_000991,uniq_002081,23130,maringa,PR
+cust_000992,uniq_000589,91764,blumenau,SC
+cust_000993,uniq_001828,17670,campinas,SP
+cust_000994,uniq_001907,95989,recife,PE
+cust_000995,uniq_001933,47643,niteroi,RJ
+cust_000996,uniq_000867,99676,belo horizonte,MG
+cust_000997,uniq_000999,35965,santos,SP
+cust_000998,uniq_001061,56984,campo grande,MS
+cust_000999,uniq_002178,61907,campinas,SP
+cust_001000,uniq_002296,34530,ribeirao preto,SP
+cust_001001,uniq_001055,22596,duque de caxias,RJ
+cust_001002,uniq_002473,52512,sao paulo,SP
+cust_001003,uniq_001454,66629,santos,SP
+cust_001004,uniq_000981,26880,juiz de fora,MG
+cust_001005,uniq_000001,76918,sorocaba,SP
+cust_001006,uniq_001558,64248,olinda,PE
+cust_001007,uniq_001644,17496,ribeirao preto,SP
+cust_001008,uniq_002469,93925,porto alegre,RS
+cust_001009,uniq_001831,5341,duque de caxias,RJ
+cust_001010,uniq_000075,65718,contagem,MG
+cust_001011,uniq_001446,44518,juiz de fora,MG
+cust_001012,uniq_001894,65726,duque de caxias,RJ
+cust_001013,uniq_001266,77627,fortaleza,CE
+cust_001014,uniq_001094,69032,sao paulo,SP
+cust_001015,uniq_002065,65426,ribeirao preto,SP
+cust_001016,uniq_001558,84246,caxias do sul,RS
+cust_001017,uniq_001737,70485,salvador,BA
+cust_001018,uniq_001183,81559,campinas,SP
+cust_001019,uniq_000709,40880,duque de caxias,RJ
+cust_001020,uniq_001323,21079,goiania,GO
+cust_001021,uniq_002445,24259,curitiba,PR
+cust_001022,uniq_001536,61598,campo grande,MS
+cust_001023,uniq_001803,53645,niteroi,RJ
+cust_001024,uniq_000316,8638,contagem,MG
+cust_001025,uniq_002519,21231,campinas,SP
+cust_001026,uniq_000623,96786,caucaia,CE
+cust_001027,uniq_002476,72895,santos,SP
+cust_001028,uniq_001136,75742,curitiba,PR
+cust_001029,uniq_002343,20499,campinas,SP
+cust_001030,uniq_002274,7357,juiz de fora,MG
+cust_001031,uniq_001926,29834,porto alegre,RS
+cust_001032,uniq_002336,85830,rio de janeiro,RJ
+cust_001033,uniq_001554,51147,aparecida de goiania,GO
+cust_001034,uniq_002164,78677,santos,SP
+cust_001035,uniq_000439,49183,uberlandia,MG
+cust_001036,uniq_000179,49527,santos,SP
+cust_001037,uniq_001385,60483,sao paulo,SP
+cust_001038,uniq_002065,95932,niteroi,RJ
+cust_001039,uniq_001951,44306,campinas,SP
+cust_001040,uniq_001346,59979,santos,SP
+cust_001041,uniq_001328,92026,contagem,MG
+cust_001042,uniq_001555,37858,juiz de fora,MG
+cust_001043,uniq_002214,84152,belo horizonte,MG
+cust_001044,uniq_002146,53969,campinas,SP
+cust_001045,uniq_000279,88031,campinas,SP
+cust_001046,uniq_001519,47313,santos,SP
+cust_001047,uniq_000971,63321,londrina,PR
+cust_001048,uniq_002038,33004,brasilia,DF
+cust_001049,uniq_001290,63865,sorocaba,SP
+cust_001050,uniq_002527,33298,juiz de fora,MG
+cust_001051,uniq_001102,61310,ribeirao preto,SP
+cust_001052,uniq_001731,79087,sao paulo,SP
+cust_001053,uniq_000276,44053,sao paulo,SP
+cust_001054,uniq_002377,43493,sorocaba,SP
+cust_001055,uniq_000391,32888,pelotas,RS
+cust_001056,uniq_000964,73315,goiania,GO
+cust_001057,uniq_002135,59607,sao paulo,SP
+cust_001058,uniq_002466,52127,duque de caxias,RJ
+cust_001059,uniq_001235,3527,caxias do sul,RS
+cust_001060,uniq_001236,11899,caucaia,CE
+cust_001061,uniq_000124,1738,contagem,MG
+cust_001062,uniq_002496,85173,ribeirao preto,SP
+cust_001063,uniq_000042,85311,juiz de fora,MG
+cust_001064,uniq_000066,7724,sao paulo,SP
+cust_001065,uniq_001207,5595,sao luis,MA
+cust_001066,uniq_000009,78361,sao paulo,SP
+cust_001067,uniq_000419,52954,pelotas,RS
+cust_001068,uniq_001600,31583,sao paulo,SP
+cust_001069,uniq_001798,61883,campinas,SP
+cust_001070,uniq_000760,24410,brasilia,DF
+cust_001071,uniq_002028,20618,juiz de fora,MG
+cust_001072,uniq_001549,37379,rio de janeiro,RJ
+cust_001073,uniq_000582,89676,recife,PE
+cust_001074,uniq_001816,76947,salvador,BA
+cust_001075,uniq_001510,19819,santos,SP
+cust_001076,uniq_002070,56609,niteroi,RJ
+cust_001077,uniq_000393,88566,duque de caxias,RJ
+cust_001078,uniq_000588,95209,juiz de fora,MG
+cust_001079,uniq_000774,76535,ribeirao preto,SP
+cust_001080,uniq_000870,13757,ribeirao preto,SP
+cust_001081,uniq_002266,24833,goiania,GO
+cust_001082,uniq_001867,22641,recife,PE
+cust_001083,uniq_001387,15923,salvador,BA
+cust_001084,uniq_001378,18357,sao luis,MA
+cust_001085,uniq_002259,32306,curitiba,PR
+cust_001086,uniq_001139,55994,maringa,PR
+cust_001087,uniq_000574,40396,curitiba,PR
+cust_001088,uniq_000349,42660,niteroi,RJ
+cust_001089,uniq_000841,25332,niteroi,RJ
+cust_001090,uniq_001665,15952,sao paulo,SP
+cust_001091,uniq_001200,99889,juiz de fora,MG
+cust_001092,uniq_001075,60300,campinas,SP
+cust_001093,uniq_001224,23735,sao paulo,SP
+cust_001094,uniq_002485,81188,uberlandia,MG
+cust_001095,uniq_002544,83232,sao paulo,SP
+cust_001096,uniq_000411,96710,sorocaba,SP
+cust_001097,uniq_000291,16752,florianopolis,SC
+cust_001098,uniq_000622,64356,brasilia,DF
+cust_001099,uniq_002172,98043,campinas,SP
+cust_001100,uniq_001171,80859,campinas,SP
+cust_001101,uniq_002202,23326,sao paulo,SP
+cust_001102,uniq_001649,89409,florianopolis,SC
+cust_001103,uniq_001410,42746,feira de santana,BA
+cust_001104,uniq_000717,49402,campinas,SP
+cust_001105,uniq_000877,56297,curitiba,PR
+cust_001106,uniq_000376,77367,campinas,SP
+cust_001107,uniq_001324,12908,campinas,SP
+cust_001108,uniq_000714,54385,campo grande,MS
+cust_001109,uniq_000745,81864,santos,SP
+cust_001110,uniq_000100,55301,sorocaba,SP
+cust_001111,uniq_002037,28193,rio de janeiro,RJ
+cust_001112,uniq_002395,6572,contagem,MG
+cust_001113,uniq_001270,55377,olinda,PE
+cust_001114,uniq_001366,70631,cuiaba,MT
+cust_001115,uniq_002360,55413,santos,SP
+cust_001116,uniq_001304,97955,santos,SP
+cust_001117,uniq_001587,60660,joinville,SC
+cust_001118,uniq_001091,51314,sao paulo,SP
+cust_001119,uniq_001311,6493,brasilia,DF
+cust_001120,uniq_001330,56300,uberlandia,MG
+cust_001121,uniq_001813,17693,sao paulo,SP
+cust_001122,uniq_001540,72748,feira de santana,BA
+cust_001123,uniq_001285,16957,santos,SP
+cust_001124,uniq_000193,90762,rio de janeiro,RJ
+cust_001125,uniq_002306,30902,contagem,MG
+cust_001126,uniq_002265,43963,duque de caxias,RJ
+cust_001127,uniq_000470,15346,pelotas,RS
+cust_001128,uniq_000747,21859,uberlandia,MG
+cust_001129,uniq_002482,92269,campo grande,MS
+cust_001130,uniq_000818,29084,campo grande,MS
+cust_001131,uniq_002071,51781,duque de caxias,RJ
+cust_001132,uniq_002003,98157,sao paulo,SP
+cust_001133,uniq_002194,62733,porto alegre,RS
+cust_001134,uniq_000040,5122,sao luis,MA
+cust_001135,uniq_001231,36390,sao paulo,SP
+cust_001136,uniq_001442,39298,duque de caxias,RJ
+cust_001137,uniq_002134,28348,duque de caxias,RJ
+cust_001138,uniq_000572,24876,santos,SP
+cust_001139,uniq_000782,50814,pelotas,RS
+cust_001140,uniq_000458,38326,campinas,SP
+cust_001141,uniq_001942,30137,florianopolis,SC
+cust_001142,uniq_002547,41884,feira de santana,BA
+cust_001143,uniq_000358,35020,feira de santana,BA
+cust_001144,uniq_000594,23644,sao paulo,SP
+cust_001145,uniq_000782,45821,sao paulo,SP
+cust_001146,uniq_002267,94286,londrina,PR
+cust_001147,uniq_001136,51067,florianopolis,SC
+cust_001148,uniq_000718,60157,duque de caxias,RJ
+cust_001149,uniq_000821,98446,aparecida de goiania,GO
+cust_001150,uniq_001525,61746,campinas,SP
+cust_001151,uniq_000986,23108,brasilia,DF
+cust_001152,uniq_000358,40448,campinas,SP
+cust_001153,uniq_002091,49309,sorocaba,SP
+cust_001154,uniq_001076,48003,niteroi,RJ
+cust_001155,uniq_000654,15801,campinas,SP
+cust_001156,uniq_001857,11477,sao paulo,SP
+cust_001157,uniq_001900,35649,sorocaba,SP
+cust_001158,uniq_000395,91511,duque de caxias,RJ
+cust_001159,uniq_000187,72013,curitiba,PR
+cust_001160,uniq_000115,84329,sorocaba,SP
+cust_001161,uniq_001952,18271,belo horizonte,MG
+cust_001162,uniq_001595,42012,salvador,BA
+cust_001163,uniq_002019,58553,campinas,SP
+cust_001164,uniq_001597,43996,santos,SP
+cust_001165,uniq_001024,42252,brasilia,DF
+cust_001166,uniq_001503,36619,feira de santana,BA
+cust_001167,uniq_001842,6106,duque de caxias,RJ
+cust_001168,uniq_001017,85864,florianopolis,SC
+cust_001169,uniq_002333,93373,santos,SP
+cust_001170,uniq_002293,9003,sorocaba,SP
+cust_001171,uniq_002041,41946,londrina,PR
+cust_001172,uniq_002530,52265,campinas,SP
+cust_001173,uniq_000995,78607,curitiba,PR
+cust_001174,uniq_000290,98686,niteroi,RJ
+cust_001175,uniq_001234,42214,londrina,PR
+cust_001176,uniq_001902,75142,niteroi,RJ
+cust_001177,uniq_001987,93797,sao paulo,SP
+cust_001178,uniq_000990,83198,sao paulo,SP
+cust_001179,uniq_000746,29756,santos,SP
+cust_001180,uniq_001135,81930,maringa,PR
+cust_001181,uniq_002049,41810,santos,SP
+cust_001182,uniq_000154,2734,santos,SP
+cust_001183,uniq_000836,76126,sorocaba,SP
+cust_001184,uniq_000586,83703,ribeirao preto,SP
+cust_001185,uniq_002055,35022,feira de santana,BA
+cust_001186,uniq_001197,45642,santos,SP
+cust_001187,uniq_000221,37070,campo grande,MS
+cust_001188,uniq_000667,12585,ribeirao preto,SP
+cust_001189,uniq_000113,99486,contagem,MG
+cust_001190,uniq_001212,3238,niteroi,RJ
+cust_001191,uniq_002544,56005,ribeirao preto,SP
+cust_001192,uniq_001446,2478,brasilia,DF
+cust_001193,uniq_002217,69247,sao luis,MA
+cust_001194,uniq_001893,90183,brasilia,DF
+cust_001195,uniq_002251,64702,ribeirao preto,SP
+cust_001196,uniq_000793,61010,sorocaba,SP
+cust_001197,uniq_002425,82963,uberlandia,MG
+cust_001198,uniq_000608,97448,ribeirao preto,SP
+cust_001199,uniq_001117,86319,curitiba,PR
+cust_001200,uniq_001737,23910,contagem,MG
+cust_001201,uniq_000731,56761,juiz de fora,MG
+cust_001202,uniq_000674,82061,feira de santana,BA
+cust_001203,uniq_000331,30160,porto alegre,RS
+cust_001204,uniq_000010,67843,ribeirao preto,SP
+cust_001205,uniq_001278,3257,campinas,SP
+cust_001206,uniq_002516,87855,uberlandia,MG
+cust_001207,uniq_000561,61825,rio de janeiro,RJ
+cust_001208,uniq_001122,74567,ribeirao preto,SP
+cust_001209,uniq_002385,82720,sao paulo,SP
+cust_001210,uniq_001969,22658,londrina,PR
+cust_001211,uniq_000010,45602,feira de santana,BA
+cust_001212,uniq_001276,86004,juiz de fora,MG
+cust_001213,uniq_000365,17305,santos,SP
+cust_001214,uniq_000629,82423,sorocaba,SP
+cust_001215,uniq_000628,29519,rio de janeiro,RJ
+cust_001216,uniq_001561,57974,sorocaba,SP
+cust_001217,uniq_000507,51488,uberlandia,MG
+cust_001218,uniq_000642,68962,pelotas,RS
+cust_001219,uniq_000575,83830,sorocaba,SP
+cust_001220,uniq_000910,35548,ribeirao preto,SP
+cust_001221,uniq_001672,18003,ribeirao preto,SP
+cust_001222,uniq_001019,42859,aparecida de goiania,GO
+cust_001223,uniq_000835,61602,belo horizonte,MG
+cust_001224,uniq_001319,75293,sao paulo,SP
+cust_001225,uniq_001568,75582,goiania,GO
+cust_001226,uniq_000039,34655,niteroi,RJ
+cust_001227,uniq_002270,93667,duque de caxias,RJ
+cust_001228,uniq_002336,9233,recife,PE
+cust_001229,uniq_001536,12553,santos,SP
+cust_001230,uniq_001465,3452,sao paulo,SP
+cust_001231,uniq_001771,92711,belo horizonte,MG
+cust_001232,uniq_001124,18831,sorocaba,SP
+cust_001233,uniq_000932,60544,pelotas,RS
+cust_001234,uniq_000899,81481,sorocaba,SP
+cust_001235,uniq_000407,76902,campinas,SP
+cust_001236,uniq_002144,94934,santos,SP
+cust_001237,uniq_000817,6323,duque de caxias,RJ
+cust_001238,uniq_000725,41299,campinas,SP
+cust_001239,uniq_002458,51108,ribeirao preto,SP
+cust_001240,uniq_001292,69917,brasilia,DF
+cust_001241,uniq_001585,62639,ribeirao preto,SP
+cust_001242,uniq_000625,56434,santos,SP
+cust_001243,uniq_000707,31376,santos,SP
+cust_001244,uniq_001857,11540,campinas,SP
+cust_001245,uniq_001149,43732,sorocaba,SP
+cust_001246,uniq_000376,26705,juiz de fora,MG
+cust_001247,uniq_002130,55874,sorocaba,SP
+cust_001248,uniq_001027,79914,brasilia,DF
+cust_001249,uniq_001704,55701,olinda,PE
+cust_001250,uniq_000870,58720,campinas,SP
+cust_001251,uniq_001429,5144,ribeirao preto,SP
+cust_001252,uniq_001977,64819,campinas,SP
+cust_001253,uniq_002257,44508,juiz de fora,MG
+cust_001254,uniq_000528,13245,campinas,SP
+cust_001255,uniq_001714,22167,salvador,BA
+cust_001256,uniq_002332,78292,curitiba,PR
+cust_001257,uniq_001638,91751,florianopolis,SC
+cust_001258,uniq_000364,51264,niteroi,RJ
+cust_001259,uniq_000483,97680,campo grande,MS
+cust_001260,uniq_000517,18823,santos,SP
+cust_001261,uniq_000271,30664,sao paulo,SP
+cust_001262,uniq_001922,93075,sorocaba,SP
+cust_001263,uniq_002461,18343,fortaleza,CE
+cust_001264,uniq_001318,66278,juiz de fora,MG
+cust_001265,uniq_001527,22730,florianopolis,SC
+cust_001266,uniq_001972,33786,campinas,SP
+cust_001267,uniq_001059,48296,sao luis,MA
+cust_001268,uniq_001204,36638,rio de janeiro,RJ
+cust_001269,uniq_001502,87575,duque de caxias,RJ
+cust_001270,uniq_000776,97305,sao luis,MA
+cust_001271,uniq_000157,50503,ribeirao preto,SP
+cust_001272,uniq_001447,52995,sao paulo,SP
+cust_001273,uniq_002096,6483,belo horizonte,MG
+cust_001274,uniq_000186,24185,ribeirao preto,SP
+cust_001275,uniq_000552,4948,sorocaba,SP
+cust_001276,uniq_000670,85807,sao paulo,SP
+cust_001277,uniq_002051,23511,campinas,SP
+cust_001278,uniq_001286,34722,brasilia,DF
+cust_001279,uniq_001362,84433,contagem,MG
+cust_001280,uniq_001645,71615,sao paulo,SP
+cust_001281,uniq_000705,62525,campinas,SP
+cust_001282,uniq_001819,4808,rio de janeiro,RJ
+cust_001283,uniq_000077,56732,uberlandia,MG
+cust_001284,uniq_000289,56527,olinda,PE
+cust_001285,uniq_002080,32577,recife,PE
+cust_001286,uniq_001678,74747,campinas,SP
+cust_001287,uniq_000449,93012,santos,SP
+cust_001288,uniq_001118,26644,niteroi,RJ
+cust_001289,uniq_000132,33786,belo horizonte,MG
+cust_001290,uniq_001713,32910,rio de janeiro,RJ
+cust_001291,uniq_001927,83658,belo horizonte,MG
+cust_001292,uniq_000709,8699,juiz de fora,MG
+cust_001293,uniq_000892,89693,ribeirao preto,SP
+cust_001294,uniq_000603,77727,sao paulo,SP
+cust_001295,uniq_000992,48849,campinas,SP
+cust_001296,uniq_000694,58767,santos,SP
+cust_001297,uniq_000630,89533,sao paulo,SP
+cust_001298,uniq_001097,77213,pelotas,RS
+cust_001299,uniq_002190,28403,sorocaba,SP
+cust_001300,uniq_001944,5989,campinas,SP
+cust_001301,uniq_000758,66184,belo horizonte,MG
+cust_001302,uniq_002404,15434,curitiba,PR
+cust_001303,uniq_000535,9708,santos,SP
+cust_001304,uniq_002322,98246,feira de santana,BA
+cust_001305,uniq_000788,47919,recife,PE
+cust_001306,uniq_001377,65433,uberlandia,MG
+cust_001307,uniq_000518,22515,belo horizonte,MG
+cust_001308,uniq_001943,11068,sao paulo,SP
+cust_001309,uniq_000810,7213,fortaleza,CE
+cust_001310,uniq_002225,36081,santos,SP
+cust_001311,uniq_000211,1368,olinda,PE
+cust_001312,uniq_001280,42585,belo horizonte,MG
+cust_001313,uniq_000404,33150,campinas,SP
+cust_001314,uniq_002266,53155,sorocaba,SP
+cust_001315,uniq_001063,59362,pelotas,RS
+cust_001316,uniq_001719,31534,contagem,MG
+cust_001317,uniq_002242,46067,santos,SP
+cust_001318,uniq_001365,8731,londrina,PR
+cust_001319,uniq_000146,30874,salvador,BA
+cust_001320,uniq_000562,97840,rio de janeiro,RJ
+cust_001321,uniq_000542,99127,niteroi,RJ
+cust_001322,uniq_002331,49094,ribeirao preto,SP
+cust_001323,uniq_002316,94012,joinville,SC
+cust_001324,uniq_001216,50628,ribeirao preto,SP
+cust_001325,uniq_002269,13439,brasilia,DF
+cust_001326,uniq_000627,86921,ribeirao preto,SP
+cust_001327,uniq_001732,42095,belo horizonte,MG
+cust_001328,uniq_000999,61629,ribeirao preto,SP
+cust_001329,uniq_000613,65235,sorocaba,SP
+cust_001330,uniq_000637,31495,londrina,PR
+cust_001331,uniq_001070,73614,niteroi,RJ
+cust_001332,uniq_000866,50628,rio de janeiro,RJ
+cust_001333,uniq_000538,37270,ananindeua,PA
+cust_001334,uniq_000852,30493,belem,PA
+cust_001335,uniq_000327,74881,salvador,BA
+cust_001336,uniq_002472,25684,santos,SP
+cust_001337,uniq_000968,13290,belo horizonte,MG
+cust_001338,uniq_000273,88291,brasilia,DF
+cust_001339,uniq_001468,33849,sorocaba,SP
+cust_001340,uniq_002251,64461,ribeirao preto,SP
+cust_001341,uniq_000917,71926,florianopolis,SC
+cust_001342,uniq_002155,83994,duque de caxias,RJ
+cust_001343,uniq_001557,62941,belo horizonte,MG
+cust_001344,uniq_001885,71085,cuiaba,MT
+cust_001345,uniq_000755,83882,contagem,MG
+cust_001346,uniq_000094,94391,rio de janeiro,RJ
+cust_001347,uniq_000881,5638,ribeirao preto,SP
+cust_001348,uniq_002357,74581,sorocaba,SP
+cust_001349,uniq_002016,18264,santos,SP
+cust_001350,uniq_001999,89235,florianopolis,SC
+cust_001351,uniq_002239,5800,feira de santana,BA
+cust_001352,uniq_000951,25430,campinas,SP
+cust_001353,uniq_000821,20019,ribeirao preto,SP
+cust_001354,uniq_002359,60737,brasilia,DF
+cust_001355,uniq_001457,1423,ribeirao preto,SP
+cust_001356,uniq_000759,2685,rio de janeiro,RJ
+cust_001357,uniq_000709,50916,rio de janeiro,RJ
+cust_001358,uniq_002237,97193,porto alegre,RS
+cust_001359,uniq_000136,53302,sao paulo,SP
+cust_001360,uniq_000157,45146,uberlandia,MG
+cust_001361,uniq_001881,66130,sao paulo,SP
+cust_001362,uniq_000003,55628,juiz de fora,MG
+cust_001363,uniq_000436,39105,sorocaba,SP
+cust_001364,uniq_002526,59265,rio de janeiro,RJ
+cust_001365,uniq_001085,1317,rio de janeiro,RJ
+cust_001366,uniq_001855,25204,ribeirao preto,SP
+cust_001367,uniq_001241,67714,ribeirao preto,SP
+cust_001368,uniq_000230,34813,santos,SP
+cust_001369,uniq_000470,6374,sorocaba,SP
+cust_001370,uniq_001940,13319,ribeirao preto,SP
+cust_001371,uniq_000241,86750,caucaia,CE
+cust_001372,uniq_001516,33627,santos,SP
+cust_001373,uniq_000887,3242,joinville,SC
+cust_001374,uniq_000944,73151,sao luis,MA
+cust_001375,uniq_002428,53516,campinas,SP
+cust_001376,uniq_001545,45686,contagem,MG
+cust_001377,uniq_001568,89595,brasilia,DF
+cust_001378,uniq_000893,32058,juiz de fora,MG
+cust_001379,uniq_000972,57675,niteroi,RJ
+cust_001380,uniq_001748,74744,rio de janeiro,RJ
+cust_001381,uniq_000099,61232,santos,SP
+cust_001382,uniq_000605,21589,duque de caxias,RJ
+cust_001383,uniq_001530,68478,campo grande,MS
+cust_001384,uniq_001590,74595,caucaia,CE
+cust_001385,uniq_000235,13118,santos,SP
+cust_001386,uniq_002008,17379,pelotas,RS
+cust_001387,uniq_001383,67817,campinas,SP
+cust_001388,uniq_000606,12778,goiania,GO
+cust_001389,uniq_001917,88154,santos,SP
+cust_001390,uniq_002526,11847,recife,PE
+cust_001391,uniq_001080,97446,feira de santana,BA
+cust_001392,uniq_000722,67479,sorocaba,SP
+cust_001393,uniq_000763,44861,campinas,SP
+cust_001394,uniq_001511,27570,salvador,BA
+cust_001395,uniq_000120,35105,sorocaba,SP
+cust_001396,uniq_001232,75102,duque de caxias,RJ
+cust_001397,uniq_000063,75576,aparecida de goiania,GO
+cust_001398,uniq_000098,21656,uberlandia,MG
+cust_001399,uniq_001096,54744,ribeirao preto,SP
+cust_001400,uniq_001901,99299,duque de caxias,RJ
+cust_001401,uniq_002252,26472,ribeirao preto,SP
+cust_001402,uniq_000223,69646,ananindeua,PA
+cust_001403,uniq_000622,18043,sorocaba,SP
+cust_001404,uniq_001075,83573,santos,SP
+cust_001405,uniq_001463,17852,sao paulo,SP
+cust_001406,uniq_002516,30463,belem,PA
+cust_001407,uniq_001744,46458,sorocaba,SP
+cust_001408,uniq_001372,37694,brasilia,DF
+cust_001409,uniq_000155,17842,pelotas,RS
+cust_001410,uniq_000206,64457,salvador,BA
+cust_001411,uniq_000390,2952,sao luis,MA
+cust_001412,uniq_001685,98367,salvador,BA
+cust_001413,uniq_000844,6156,fortaleza,CE
+cust_001414,uniq_000614,34052,campinas,SP
+cust_001415,uniq_001708,93057,joinville,SC
+cust_001416,uniq_002079,16352,niteroi,RJ
+cust_001417,uniq_001119,8223,niteroi,RJ
+cust_001418,uniq_002248,74647,goiania,GO
+cust_001419,uniq_001872,8244,sao luis,MA
+cust_001420,uniq_001826,90059,caxias do sul,RS
+cust_001421,uniq_002212,45667,duque de caxias,RJ
+cust_001422,uniq_000468,87062,rio de janeiro,RJ
+cust_001423,uniq_001933,25264,sao paulo,SP
+cust_001424,uniq_002442,14972,campinas,SP
+cust_001425,uniq_002530,96305,santos,SP
+cust_001426,uniq_001474,76454,sorocaba,SP
+cust_001427,uniq_001923,91186,sorocaba,SP
+cust_001428,uniq_002265,32668,londrina,PR
+cust_001429,uniq_002173,41069,rio de janeiro,RJ
+cust_001430,uniq_002289,58144,recife,PE
+cust_001431,uniq_002122,45423,uberlandia,MG
+cust_001432,uniq_000972,25023,santos,SP
+cust_001433,uniq_001862,38135,ribeirao preto,SP
+cust_001434,uniq_001046,61266,sao paulo,SP
+cust_001435,uniq_002044,4748,sao luis,MA
+cust_001436,uniq_002066,34258,sorocaba,SP
+cust_001437,uniq_002383,29991,niteroi,RJ
+cust_001438,uniq_001500,7961,olinda,PE
+cust_001439,uniq_001211,13144,sao luis,MA
+cust_001440,uniq_000422,50071,sao paulo,SP
+cust_001441,uniq_001627,11134,sorocaba,SP
+cust_001442,uniq_001444,35145,santos,SP
+cust_001443,uniq_001313,56524,campinas,SP
+cust_001444,uniq_001724,87509,campinas,SP
+cust_001445,uniq_002170,10777,uberlandia,MG
+cust_001446,uniq_000379,44029,goiania,GO
+cust_001447,uniq_001099,11190,duque de caxias,RJ
+cust_001448,uniq_001841,43428,juiz de fora,MG
+cust_001449,uniq_002090,48570,sorocaba,SP
+cust_001450,uniq_001984,80126,joinville,SC
+cust_001451,uniq_002038,44785,contagem,MG
+cust_001452,uniq_002180,93614,brasilia,DF
+cust_001453,uniq_002452,14625,fortaleza,CE
+cust_001454,uniq_001550,6262,santos,SP
+cust_001455,uniq_000634,1440,santos,SP
+cust_001456,uniq_001437,36317,santos,SP
+cust_001457,uniq_001809,20104,duque de caxias,RJ
+cust_001458,uniq_000256,10066,fortaleza,CE
+cust_001459,uniq_001930,24353,sao paulo,SP
+cust_001460,uniq_001387,97522,maringa,PR
+cust_001461,uniq_002387,80223,duque de caxias,RJ
+cust_001462,uniq_000540,2838,sorocaba,SP
+cust_001463,uniq_002312,91627,campinas,SP
+cust_001464,uniq_001142,21320,uberlandia,MG
+cust_001465,uniq_001462,41188,porto alegre,RS
+cust_001466,uniq_001683,33435,rio de janeiro,RJ
+cust_001467,uniq_001476,41097,ribeirao preto,SP
+cust_001468,uniq_002304,76310,caxias do sul,RS
+cust_001469,uniq_000426,71534,santos,SP
+cust_001470,uniq_001861,59809,recife,PE
+cust_001471,uniq_002486,63064,santos,SP
+cust_001472,uniq_000561,73024,ribeirao preto,SP
+cust_001473,uniq_000650,19229,niteroi,RJ
+cust_001474,uniq_001211,40170,niteroi,RJ
+cust_001475,uniq_001848,11661,duque de caxias,RJ
+cust_001476,uniq_002445,70712,rio de janeiro,RJ
+cust_001477,uniq_002029,44323,campo grande,MS
+cust_001478,uniq_002024,64089,rio de janeiro,RJ
+cust_001479,uniq_001125,56917,niteroi,RJ
+cust_001480,uniq_001645,28089,niteroi,RJ
+cust_001481,uniq_000538,14731,sorocaba,SP
+cust_001482,uniq_001181,97320,belo horizonte,MG
+cust_001483,uniq_000481,30033,sao paulo,SP
+cust_001484,uniq_000069,11846,uberlandia,MG
+cust_001485,uniq_002184,31288,santos,SP
+cust_001486,uniq_002052,90338,varzea grande,MT
+cust_001487,uniq_001302,26868,niteroi,RJ
+cust_001488,uniq_000036,98691,goiania,GO
+cust_001489,uniq_000229,46614,rio de janeiro,RJ
+cust_001490,uniq_000285,86318,santos,SP
+cust_001491,uniq_001828,65652,feira de santana,BA
+cust_001492,uniq_000518,5349,contagem,MG
+cust_001493,uniq_000637,51429,joinville,SC
+cust_001494,uniq_002195,42275,niteroi,RJ
+cust_001495,uniq_002234,20943,belo horizonte,MG
+cust_001496,uniq_001945,55448,salvador,BA
+cust_001497,uniq_000789,11190,belo horizonte,MG
+cust_001498,uniq_001478,70130,ribeirao preto,SP
+cust_001499,uniq_000510,82364,juiz de fora,MG
+cust_001500,uniq_002187,10161,pelotas,RS
+cust_001501,uniq_000216,48450,belem,PA
+cust_001502,uniq_001898,65856,sao paulo,SP
+cust_001503,uniq_001304,7151,niteroi,RJ
+cust_001504,uniq_001931,39543,florianopolis,SC
+cust_001505,uniq_001149,26553,niteroi,RJ
+cust_001506,uniq_000403,4886,londrina,PR
+cust_001507,uniq_001915,80598,duque de caxias,RJ
+cust_001508,uniq_001609,45022,ribeirao preto,SP
+cust_001509,uniq_001184,75420,maringa,PR
+cust_001510,uniq_000950,59119,santos,SP
+cust_001511,uniq_000876,87704,sorocaba,SP
+cust_001512,uniq_001226,99702,contagem,MG
+cust_001513,uniq_000667,60606,londrina,PR
+cust_001514,uniq_000720,35864,goiania,GO
+cust_001515,uniq_000709,42867,santos,SP
+cust_001516,uniq_000032,82714,sorocaba,SP
+cust_001517,uniq_002366,43236,fortaleza,CE
+cust_001518,uniq_000603,52453,sao paulo,SP
+cust_001519,uniq_000420,20205,campinas,SP
+cust_001520,uniq_000385,99015,campinas,SP
+cust_001521,uniq_002519,65428,niteroi,RJ
+cust_001522,uniq_001215,33690,brasilia,DF
+cust_001523,uniq_000833,58921,curitiba,PR
+cust_001524,uniq_001029,40712,porto alegre,RS
+cust_001525,uniq_000225,16331,campinas,SP
+cust_001526,uniq_000799,87599,santos,SP
+cust_001527,uniq_000634,88679,rio de janeiro,RJ
+cust_001528,uniq_002048,83653,campinas,SP
+cust_001529,uniq_000148,37477,campinas,SP
+cust_001530,uniq_001084,26383,sao paulo,SP
+cust_001531,uniq_002014,5924,campinas,SP
+cust_001532,uniq_002125,73421,uberlandia,MG
+cust_001533,uniq_001307,33459,porto alegre,RS
+cust_001534,uniq_000567,89328,ribeirao preto,SP
+cust_001535,uniq_000859,87114,rio de janeiro,RJ
+cust_001536,uniq_000566,13689,joinville,SC
+cust_001537,uniq_001688,91777,londrina,PR
+cust_001538,uniq_000746,14888,blumenau,SC
+cust_001539,uniq_001608,49548,niteroi,RJ
+cust_001540,uniq_001672,47918,feira de santana,BA
+cust_001541,uniq_002396,95676,ribeirao preto,SP
+cust_001542,uniq_000944,66072,sorocaba,SP
+cust_001543,uniq_002451,87648,campinas,SP
+cust_001544,uniq_001021,59983,duque de caxias,RJ
+cust_001545,uniq_001735,82697,santos,SP
+cust_001546,uniq_001687,85358,sao paulo,SP
+cust_001547,uniq_002085,86110,londrina,PR
+cust_001548,uniq_001196,41749,sorocaba,SP
+cust_001549,uniq_002020,38805,sao paulo,SP
+cust_001550,uniq_000906,98496,sao paulo,SP
+cust_001551,uniq_001252,75889,duque de caxias,RJ
+cust_001552,uniq_001274,91812,santos,SP
+cust_001553,uniq_001796,58155,campinas,SP
+cust_001554,uniq_001576,92972,ribeirao preto,SP
+cust_001555,uniq_000199,72247,londrina,PR
+cust_001556,uniq_002063,74513,recife,PE
+cust_001557,uniq_001932,18600,rio de janeiro,RJ
+cust_001558,uniq_000266,57121,contagem,MG
+cust_001559,uniq_002452,73407,brasilia,DF
+cust_001560,uniq_001684,76338,campo grande,MS
+cust_001561,uniq_000216,95800,belo horizonte,MG
+cust_001562,uniq_001253,33367,brasilia,DF
+cust_001563,uniq_002132,30963,goiania,GO
+cust_001564,uniq_000713,96977,florianopolis,SC
+cust_001565,uniq_002379,98628,rio de janeiro,RJ
+cust_001566,uniq_001066,18808,ribeirao preto,SP
+cust_001567,uniq_000576,38458,sao paulo,SP
+cust_001568,uniq_000908,94859,duque de caxias,RJ
+cust_001569,uniq_001338,20772,rio de janeiro,RJ
+cust_001570,uniq_001754,78532,campinas,SP
+cust_001571,uniq_002366,12116,belo horizonte,MG
+cust_001572,uniq_000496,18652,uberlandia,MG
+cust_001573,uniq_002448,78710,feira de santana,BA
+cust_001574,uniq_001345,61138,sao paulo,SP
+cust_001575,uniq_000326,55927,santos,SP
+cust_001576,uniq_002362,85801,blumenau,SC
+cust_001577,uniq_000889,31405,salvador,BA
+cust_001578,uniq_001582,50825,campo grande,MS
+cust_001579,uniq_001780,61235,brasilia,DF
+cust_001580,uniq_000034,74246,brasilia,DF
+cust_001581,uniq_000564,33877,sao paulo,SP
+cust_001582,uniq_001750,63729,ribeirao preto,SP
+cust_001583,uniq_000828,45386,sao paulo,SP
+cust_001584,uniq_000023,54653,belo horizonte,MG
+cust_001585,uniq_000059,86402,recife,PE
+cust_001586,uniq_002107,39971,campinas,SP
+cust_001587,uniq_000391,67147,belo horizonte,MG
+cust_001588,uniq_000256,94256,ribeirao preto,SP
+cust_001589,uniq_001433,76477,santos,SP
+cust_001590,uniq_000303,98882,sorocaba,SP
+cust_001591,uniq_001665,58765,santos,SP
+cust_001592,uniq_001387,28912,fortaleza,CE
+cust_001593,uniq_001654,99147,sorocaba,SP
+cust_001594,uniq_001253,64812,salvador,BA
+cust_001595,uniq_001984,24899,caxias do sul,RS
+cust_001596,uniq_001644,32401,ribeirao preto,SP
+cust_001597,uniq_001058,26966,campinas,SP
+cust_001598,uniq_000039,83526,blumenau,SC
+cust_001599,uniq_000697,10163,campinas,SP
+cust_001600,uniq_000335,74249,goiania,GO
+cust_001601,uniq_000039,55847,sorocaba,SP
+cust_001602,uniq_000696,8273,porto alegre,RS
+cust_001603,uniq_000526,61721,blumenau,SC
+cust_001604,uniq_000195,75561,sao paulo,SP
+cust_001605,uniq_000796,72869,campinas,SP
+cust_001606,uniq_001291,53322,ananindeua,PA
+cust_001607,uniq_000454,34208,santos,SP
+cust_001608,uniq_000696,17220,duque de caxias,RJ
+cust_001609,uniq_000051,2213,duque de caxias,RJ
+cust_001610,uniq_000128,36595,ribeirao preto,SP
+cust_001611,uniq_000401,63590,londrina,PR
+cust_001612,uniq_001154,4727,curitiba,PR
+cust_001613,uniq_001698,99869,sorocaba,SP
+cust_001614,uniq_002010,59008,feira de santana,BA
+cust_001615,uniq_001605,30160,sao paulo,SP
+cust_001616,uniq_001572,96247,sorocaba,SP
+cust_001617,uniq_002385,19209,uberlandia,MG
+cust_001618,uniq_000651,95801,campo grande,MS
+cust_001619,uniq_002035,28894,santos,SP
+cust_001620,uniq_002389,38592,santos,SP
+cust_001621,uniq_001447,43115,duque de caxias,RJ
+cust_001622,uniq_002143,99487,florianopolis,SC
+cust_001623,uniq_000350,25840,campinas,SP
+cust_001624,uniq_002240,97313,sao paulo,SP
+cust_001625,uniq_001438,35348,londrina,PR
+cust_001626,uniq_000564,29232,sao paulo,SP
+cust_001627,uniq_000157,64181,santos,SP
+cust_001628,uniq_001835,69680,sorocaba,SP
+cust_001629,uniq_001098,35157,santos,SP
+cust_001630,uniq_000790,14272,duque de caxias,RJ
+cust_001631,uniq_000995,40209,brasilia,DF
+cust_001632,uniq_002527,54501,juiz de fora,MG
+cust_001633,uniq_001090,4963,porto alegre,RS
+cust_001634,uniq_000200,8786,varzea grande,MT
+cust_001635,uniq_000713,91875,santos,SP
+cust_001636,uniq_000370,4550,campinas,SP
+cust_001637,uniq_001748,41281,olinda,PE
+cust_001638,uniq_002041,76624,campinas,SP
+cust_001639,uniq_002144,33485,porto alegre,RS
+cust_001640,uniq_001613,49982,londrina,PR
+cust_001641,uniq_001959,9561,campinas,SP
+cust_001642,uniq_001064,79648,niteroi,RJ
+cust_001643,uniq_001600,63783,santos,SP
+cust_001644,uniq_000272,85312,ribeirao preto,SP
+cust_001645,uniq_001372,86517,rio de janeiro,RJ
+cust_001646,uniq_001421,35729,campinas,SP
+cust_001647,uniq_000079,5074,florianopolis,SC
+cust_001648,uniq_001398,35288,goiania,GO
+cust_001649,uniq_001843,15381,joinville,SC
+cust_001650,uniq_000937,53795,ribeirao preto,SP
+cust_001651,uniq_001389,15492,campinas,SP
+cust_001652,uniq_000729,92267,sao paulo,SP
+cust_001653,uniq_000690,60624,santos,SP
+cust_001654,uniq_000330,26050,caucaia,CE
+cust_001655,uniq_000835,92200,sao paulo,SP
+cust_001656,uniq_002048,77198,santos,SP
+cust_001657,uniq_002385,44338,salvador,BA
+cust_001658,uniq_001620,15504,santos,SP
+cust_001659,uniq_001592,35036,ribeirao preto,SP
+cust_001660,uniq_001565,58816,ribeirao preto,SP
+cust_001661,uniq_001213,76817,contagem,MG
+cust_001662,uniq_001078,26930,blumenau,SC
+cust_001663,uniq_001583,74513,campinas,SP
+cust_001664,uniq_002000,29000,aparecida de goiania,GO
+cust_001665,uniq_001055,25428,salvador,BA
+cust_001666,uniq_001443,45254,salvador,BA
+cust_001667,uniq_001198,16921,ribeirao preto,SP
+cust_001668,uniq_000728,41060,campinas,SP
+cust_001669,uniq_000740,36422,brasilia,DF
+cust_001670,uniq_000200,28723,sao paulo,SP
+cust_001671,uniq_001121,77783,contagem,MG
+cust_001672,uniq_001816,33840,londrina,PR
+cust_001673,uniq_001748,69810,santos,SP
+cust_001674,uniq_002513,72307,florianopolis,SC
+cust_001675,uniq_000101,66918,olinda,PE
+cust_001676,uniq_001939,27663,porto alegre,RS
+cust_001677,uniq_002027,83112,niteroi,RJ
+cust_001678,uniq_001112,24418,brasilia,DF
+cust_001679,uniq_000721,28435,niteroi,RJ
+cust_001680,uniq_000910,87622,maringa,PR
+cust_001681,uniq_001740,34628,feira de santana,BA
+cust_001682,uniq_002198,70004,curitiba,PR
+cust_001683,uniq_001638,5191,sao paulo,SP
+cust_001684,uniq_001311,61817,santos,SP
+cust_001685,uniq_001664,87004,sorocaba,SP
+cust_001686,uniq_000180,71160,rio de janeiro,RJ
+cust_001687,uniq_001550,58659,niteroi,RJ
+cust_001688,uniq_000107,85053,uberlandia,MG
+cust_001689,uniq_002445,30513,campinas,SP
+cust_001690,uniq_002267,38300,joinville,SC
+cust_001691,uniq_001296,7872,goiania,GO
+cust_001692,uniq_000953,70138,santos,SP
+cust_001693,uniq_001867,72616,maringa,PR
+cust_001694,uniq_001625,75385,caxias do sul,RS
+cust_001695,uniq_001798,75124,rio de janeiro,RJ
+cust_001696,uniq_001314,13610,sorocaba,SP
+cust_001697,uniq_000602,66951,florianopolis,SC
+cust_001698,uniq_000186,76568,ananindeua,PA
+cust_001699,uniq_000722,21174,pelotas,RS
+cust_001700,uniq_001348,48171,aparecida de goiania,GO
+cust_001701,uniq_001081,91407,cuiaba,MT
+cust_001702,uniq_001291,42065,sorocaba,SP
+cust_001703,uniq_000708,75561,contagem,MG
+cust_001704,uniq_002391,53503,niteroi,RJ
+cust_001705,uniq_000935,66117,varzea grande,MT
+cust_001706,uniq_002157,63023,ribeirao preto,SP
+cust_001707,uniq_000996,65442,ribeirao preto,SP
+cust_001708,uniq_001131,78157,brasilia,DF
+cust_001709,uniq_001539,90530,sao paulo,SP
+cust_001710,uniq_000670,30270,joinville,SC
+cust_001711,uniq_000560,92901,campinas,SP
+cust_001712,uniq_000966,63157,sao luis,MA
+cust_001713,uniq_002050,59967,brasilia,DF
+cust_001714,uniq_000368,33444,sao paulo,SP
+cust_001715,uniq_001115,42249,londrina,PR
+cust_001716,uniq_001713,65510,sao paulo,SP
+cust_001717,uniq_001800,37009,belo horizonte,MG
+cust_001718,uniq_001107,29440,contagem,MG
+cust_001719,uniq_000207,82087,feira de santana,BA
+cust_001720,uniq_000040,42127,campinas,SP
+cust_001721,uniq_001198,64815,sao paulo,SP
+cust_001722,uniq_002065,4087,pelotas,RS
+cust_001723,uniq_000071,8649,contagem,MG
+cust_001724,uniq_002263,84968,niteroi,RJ
+cust_001725,uniq_001723,15076,sao paulo,SP
+cust_001726,uniq_000020,79783,sao paulo,SP
+cust_001727,uniq_000876,90117,brasilia,DF
+cust_001728,uniq_000562,48657,sao paulo,SP
+cust_001729,uniq_002420,88564,sao paulo,SP
+cust_001730,uniq_001414,43295,caucaia,CE
+cust_001731,uniq_000826,95230,campinas,SP
+cust_001732,uniq_000709,24474,londrina,PR
+cust_001733,uniq_001437,43356,sorocaba,SP
+cust_001734,uniq_000012,39502,brasilia,DF
+cust_001735,uniq_000656,78621,maringa,PR
+cust_001736,uniq_000421,5328,brasilia,DF
+cust_001737,uniq_001581,82993,campinas,SP
+cust_001738,uniq_001706,3319,niteroi,RJ
+cust_001739,uniq_001190,32253,londrina,PR
+cust_001740,uniq_000357,60010,sao paulo,SP
+cust_001741,uniq_000945,15388,ribeirao preto,SP
+cust_001742,uniq_002149,49521,santos,SP
+cust_001743,uniq_000519,99704,fortaleza,CE
+cust_001744,uniq_000416,82496,caxias do sul,RS
+cust_001745,uniq_000284,3991,contagem,MG
+cust_001746,uniq_002082,59583,curitiba,PR
+cust_001747,uniq_000305,60135,niteroi,RJ
+cust_001748,uniq_001483,7754,duque de caxias,RJ
+cust_001749,uniq_002547,65370,duque de caxias,RJ
+cust_001750,uniq_001636,52578,contagem,MG
+cust_001751,uniq_001051,68496,sao paulo,SP
+cust_001752,uniq_000527,30452,brasilia,DF
+cust_001753,uniq_000004,26306,blumenau,SC
+cust_001754,uniq_000396,73859,ribeirao preto,SP
+cust_001755,uniq_002429,72435,uberlandia,MG
+cust_001756,uniq_000366,17009,santos,SP
+cust_001757,uniq_000050,22423,sao luis,MA
+cust_001758,uniq_002080,59049,aparecida de goiania,GO
+cust_001759,uniq_001067,83073,recife,PE
+cust_001760,uniq_000910,20977,campinas,SP
+cust_001761,uniq_001829,22692,ribeirao preto,SP
+cust_001762,uniq_001333,80969,sorocaba,SP
+cust_001763,uniq_002332,69973,campinas,SP
+cust_001764,uniq_001192,90325,santos,SP
+cust_001765,uniq_001817,78557,sorocaba,SP
+cust_001766,uniq_002241,95373,cuiaba,MT
+cust_001767,uniq_001182,19705,campinas,SP
+cust_001768,uniq_000724,27921,sao paulo,SP
+cust_001769,uniq_002484,24560,salvador,BA
+cust_001770,uniq_000578,6487,contagem,MG
+cust_001771,uniq_000100,78130,londrina,PR
+cust_001772,uniq_001474,66513,juiz de fora,MG
+cust_001773,uniq_002516,9513,brasilia,DF
+cust_001774,uniq_000220,20614,juiz de fora,MG
+cust_001775,uniq_002165,19885,duque de caxias,RJ
+cust_001776,uniq_002117,40889,pelotas,RS
+cust_001777,uniq_002368,46097,duque de caxias,RJ
+cust_001778,uniq_001074,29609,santos,SP
+cust_001779,uniq_000649,93087,duque de caxias,RJ
+cust_001780,uniq_001305,22063,sao paulo,SP
+cust_001781,uniq_000363,56625,blumenau,SC
+cust_001782,uniq_002149,44359,sao paulo,SP
+cust_001783,uniq_001691,39379,campinas,SP
+cust_001784,uniq_001232,82752,campinas,SP
+cust_001785,uniq_001315,97857,feira de santana,BA
+cust_001786,uniq_001815,1581,ribeirao preto,SP
+cust_001787,uniq_001334,46906,porto alegre,RS
+cust_001788,uniq_002141,12796,feira de santana,BA
+cust_001789,uniq_002357,43939,campinas,SP
+cust_001790,uniq_002421,62085,curitiba,PR
+cust_001791,uniq_001581,41752,santos,SP
+cust_001792,uniq_001893,31600,santos,SP
+cust_001793,uniq_000793,31905,porto alegre,RS
+cust_001794,uniq_000097,30686,goiania,GO
+cust_001795,uniq_001020,33243,sorocaba,SP
+cust_001796,uniq_002222,38024,uberlandia,MG
+cust_001797,uniq_000340,69095,sorocaba,SP
+cust_001798,uniq_001391,10504,juiz de fora,MG
+cust_001799,uniq_000490,5042,uberlandia,MG
+cust_001800,uniq_001094,52157,contagem,MG
+cust_001801,uniq_000365,68499,contagem,MG
+cust_001802,uniq_001873,26612,santos,SP
+cust_001803,uniq_002066,20919,caxias do sul,RS
+cust_001804,uniq_001933,62850,porto alegre,RS
+cust_001805,uniq_001797,39036,porto alegre,RS
+cust_001806,uniq_000599,73869,sao paulo,SP
+cust_001807,uniq_001352,15507,niteroi,RJ
+cust_001808,uniq_000267,12990,ribeirao preto,SP
+cust_001809,uniq_000954,55721,campinas,SP
+cust_001810,uniq_001289,39855,sao paulo,SP
+cust_001811,uniq_001704,73204,rio de janeiro,RJ
+cust_001812,uniq_000246,51106,londrina,PR
+cust_001813,uniq_002072,36110,campinas,SP
+cust_001814,uniq_001170,16807,salvador,BA
+cust_001815,uniq_002247,17178,rio de janeiro,RJ
+cust_001816,uniq_001345,75828,curitiba,PR
+cust_001817,uniq_001394,23423,rio de janeiro,RJ
+cust_001818,uniq_001766,50741,duque de caxias,RJ
+cust_001819,uniq_002090,81992,juiz de fora,MG
+cust_001820,uniq_000401,89884,recife,PE
+cust_001821,uniq_001303,27496,rio de janeiro,RJ
+cust_001822,uniq_000076,11852,rio de janeiro,RJ
+cust_001823,uniq_001210,77694,uberlandia,MG
+cust_001824,uniq_002074,69039,londrina,PR
+cust_001825,uniq_002206,33788,santos,SP
+cust_001826,uniq_000722,59762,rio de janeiro,RJ
+cust_001827,uniq_000985,19684,niteroi,RJ
+cust_001828,uniq_001406,70366,recife,PE
+cust_001829,uniq_001009,73002,niteroi,RJ
+cust_001830,uniq_000454,30637,duque de caxias,RJ
+cust_001831,uniq_000777,47385,belem,PA
+cust_001832,uniq_001030,34072,niteroi,RJ
+cust_001833,uniq_001322,4096,ribeirao preto,SP
+cust_001834,uniq_002347,13603,ribeirao preto,SP
+cust_001835,uniq_001389,96033,santos,SP
+cust_001836,uniq_000987,46146,santos,SP
+cust_001837,uniq_001684,15627,duque de caxias,RJ
+cust_001838,uniq_001971,5382,londrina,PR
+cust_001839,uniq_001097,35986,londrina,PR
+cust_001840,uniq_001247,98298,campinas,SP
+cust_001841,uniq_000555,39094,uberlandia,MG
+cust_001842,uniq_002205,99945,sao paulo,SP
+cust_001843,uniq_002210,49453,fortaleza,CE
+cust_001844,uniq_000446,76630,sao paulo,SP
+cust_001845,uniq_000882,78758,belo horizonte,MG
+cust_001846,uniq_000693,3788,santos,SP
+cust_001847,uniq_002353,1602,contagem,MG
+cust_001848,uniq_000166,92323,sorocaba,SP
+cust_001849,uniq_000528,93313,curitiba,PR
+cust_001850,uniq_000803,14129,sorocaba,SP
+cust_001851,uniq_001428,64952,goiania,GO
+cust_001852,uniq_000634,92448,duque de caxias,RJ
+cust_001853,uniq_001368,95113,maringa,PR
+cust_001854,uniq_001905,30340,feira de santana,BA
+cust_001855,uniq_002113,81920,campo grande,MS
+cust_001856,uniq_000252,64986,sao paulo,SP
+cust_001857,uniq_000354,92855,sorocaba,SP
+cust_001858,uniq_000242,15525,sao paulo,SP
+cust_001859,uniq_002320,60498,sorocaba,SP
+cust_001860,uniq_001662,3424,contagem,MG
+cust_001861,uniq_001355,36373,campo grande,MS
+cust_001862,uniq_002016,2129,campo grande,MS
+cust_001863,uniq_001494,44848,niteroi,RJ
+cust_001864,uniq_000600,81296,uberlandia,MG
+cust_001865,uniq_001300,66144,salvador,BA
+cust_001866,uniq_001793,32370,olinda,PE
+cust_001867,uniq_000091,43265,ribeirao preto,SP
+cust_001868,uniq_001546,37376,duque de caxias,RJ
+cust_001869,uniq_001267,73434,feira de santana,BA
+cust_001870,uniq_000177,27354,sorocaba,SP
+cust_001871,uniq_000672,10092,duque de caxias,RJ
+cust_001872,uniq_001143,51165,cuiaba,MT
+cust_001873,uniq_000873,83167,varzea grande,MT
+cust_001874,uniq_000739,48236,goiania,GO
+cust_001875,uniq_001655,21214,blumenau,SC
+cust_001876,uniq_001031,5560,ribeirao preto,SP
+cust_001877,uniq_001269,94449,santos,SP
+cust_001878,uniq_002035,76311,niteroi,RJ
+cust_001879,uniq_000237,16398,uberlandia,MG
+cust_001880,uniq_000917,8318,niteroi,RJ
+cust_001881,uniq_000186,13787,uberlandia,MG
+cust_001882,uniq_002364,38276,campinas,SP
+cust_001883,uniq_000473,81374,maringa,PR
+cust_001884,uniq_002090,16827,sao paulo,SP
+cust_001885,uniq_000486,82050,ribeirao preto,SP
+cust_001886,uniq_000826,1187,campinas,SP
+cust_001887,uniq_001551,74136,campinas,SP
+cust_001888,uniq_002120,28958,salvador,BA
+cust_001889,uniq_000453,96091,rio de janeiro,RJ
+cust_001890,uniq_000543,48108,sao paulo,SP
+cust_001891,uniq_002248,27783,maringa,PR
+cust_001892,uniq_000821,25049,juiz de fora,MG
+cust_001893,uniq_000534,82837,santos,SP
+cust_001894,uniq_001895,40896,sao paulo,SP
+cust_001895,uniq_000232,35851,sorocaba,SP
+cust_001896,uniq_002210,73830,contagem,MG
+cust_001897,uniq_002233,54201,santos,SP
+cust_001898,uniq_002184,66719,sorocaba,SP
+cust_001899,uniq_000753,45113,santos,SP
+cust_001900,uniq_000291,7336,uberlandia,MG
+cust_001901,uniq_001084,1579,ribeirao preto,SP
+cust_001902,uniq_000853,4871,feira de santana,BA
+cust_001903,uniq_002445,57871,ribeirao preto,SP
+cust_001904,uniq_001610,51848,contagem,MG
+cust_001905,uniq_002408,75002,duque de caxias,RJ
+cust_001906,uniq_001914,89568,rio de janeiro,RJ
+cust_001907,uniq_001823,18280,sao paulo,SP
+cust_001908,uniq_000285,95770,joinville,SC
+cust_001909,uniq_000175,93232,aparecida de goiania,GO
+cust_001910,uniq_000118,61977,sorocaba,SP
+cust_001911,uniq_001513,53509,campinas,SP
+cust_001912,uniq_000514,18489,aparecida de goiania,GO
+cust_001913,uniq_002522,18646,duque de caxias,RJ
+cust_001914,uniq_000338,2847,sorocaba,SP
+cust_001915,uniq_002414,64948,sorocaba,SP
+cust_001916,uniq_001702,43880,juiz de fora,MG
+cust_001917,uniq_000270,20000,caxias do sul,RS
+cust_001918,uniq_000149,14250,uberlandia,MG
+cust_001919,uniq_001009,7289,fortaleza,CE
+cust_001920,uniq_000864,64454,duque de caxias,RJ
+cust_001921,uniq_000804,68845,campinas,SP
+cust_001922,uniq_001347,63531,niteroi,RJ
+cust_001923,uniq_000330,11958,santos,SP
+cust_001924,uniq_000330,5094,ribeirao preto,SP
+cust_001925,uniq_001771,11515,santos,SP
+cust_001926,uniq_002525,75407,ribeirao preto,SP
+cust_001927,uniq_000698,74253,porto alegre,RS
+cust_001928,uniq_002376,30187,ribeirao preto,SP
+cust_001929,uniq_000879,6464,duque de caxias,RJ
+cust_001930,uniq_000856,32653,juiz de fora,MG
+cust_001931,uniq_000230,81166,juiz de fora,MG
+cust_001932,uniq_001079,15198,londrina,PR
+cust_001933,uniq_001269,79817,florianopolis,SC
+cust_001934,uniq_001692,46869,caxias do sul,RS
+cust_001935,uniq_000403,14997,sao paulo,SP
+cust_001936,uniq_000481,93454,rio de janeiro,RJ
+cust_001937,uniq_001101,52319,contagem,MG
+cust_001938,uniq_000177,67482,santos,SP
+cust_001939,uniq_000365,10565,ribeirao preto,SP
+cust_001940,uniq_001604,37792,ribeirao preto,SP
+cust_001941,uniq_002432,63623,rio de janeiro,RJ
+cust_001942,uniq_001461,64889,ribeirao preto,SP
+cust_001943,uniq_000369,7230,santos,SP
+cust_001944,uniq_002527,60822,salvador,BA
+cust_001945,uniq_001330,94502,recife,PE
+cust_001946,uniq_001827,78851,santos,SP
+cust_001947,uniq_000502,21565,olinda,PE
+cust_001948,uniq_001475,91346,campinas,SP
+cust_001949,uniq_000194,68605,recife,PE
+cust_001950,uniq_001595,6637,fortaleza,CE
+cust_001951,uniq_000515,13700,campinas,SP
+cust_001952,uniq_002319,92203,curitiba,PR
+cust_001953,uniq_000139,21749,sao luis,MA
+cust_001954,uniq_001664,10579,aparecida de goiania,GO
+cust_001955,uniq_000355,45643,sao luis,MA
+cust_001956,uniq_001752,53034,juiz de fora,MG
+cust_001957,uniq_001258,57735,sao paulo,SP
+cust_001958,uniq_002467,66226,salvador,BA
+cust_001959,uniq_001662,99886,belo horizonte,MG
+cust_001960,uniq_000948,76164,juiz de fora,MG
+cust_001961,uniq_000222,3566,ribeirao preto,SP
+cust_001962,uniq_001519,9768,belo horizonte,MG
+cust_001963,uniq_001124,1031,santos,SP
+cust_001964,uniq_000133,40127,maringa,PR
+cust_001965,uniq_001482,35685,sorocaba,SP
+cust_001966,uniq_000535,93419,caxias do sul,RS
+cust_001967,uniq_000597,37249,salvador,BA
+cust_001968,uniq_000022,4034,duque de caxias,RJ
+cust_001969,uniq_000948,88499,duque de caxias,RJ
+cust_001970,uniq_000556,26766,ribeirao preto,SP
+cust_001971,uniq_000183,91344,belem,PA
+cust_001972,uniq_001107,77669,maringa,PR
+cust_001973,uniq_000561,88171,sao paulo,SP
+cust_001974,uniq_000342,82151,sorocaba,SP
+cust_001975,uniq_001190,15174,sorocaba,SP
+cust_001976,uniq_000161,62991,niteroi,RJ
+cust_001977,uniq_002525,41797,caucaia,CE
+cust_001978,uniq_001200,63248,curitiba,PR
+cust_001979,uniq_002540,74841,sorocaba,SP
+cust_001980,uniq_002247,50594,salvador,BA
+cust_001981,uniq_002498,31948,campinas,SP
+cust_001982,uniq_001383,91716,feira de santana,BA
+cust_001983,uniq_001078,66659,sorocaba,SP
+cust_001984,uniq_001835,88667,uberlandia,MG
+cust_001985,uniq_000205,24476,olinda,PE
+cust_001986,uniq_002142,83986,santos,SP
+cust_001987,uniq_000825,33018,porto alegre,RS
+cust_001988,uniq_000018,46587,varzea grande,MT
+cust_001989,uniq_000606,86181,sorocaba,SP
+cust_001990,uniq_000617,36116,campinas,SP
+cust_001991,uniq_000036,25800,pelotas,RS
+cust_001992,uniq_001704,91638,ribeirao preto,SP
+cust_001993,uniq_000242,96467,sorocaba,SP
+cust_001994,uniq_002159,31796,duque de caxias,RJ
+cust_001995,uniq_001155,31319,maringa,PR
+cust_001996,uniq_001831,23539,ribeirao preto,SP
+cust_001997,uniq_000866,3329,sorocaba,SP
+cust_001998,uniq_000336,55734,feira de santana,BA
+cust_001999,uniq_000459,26234,duque de caxias,RJ
+cust_002000,uniq_001646,85058,feira de santana,BA
+cust_002001,uniq_001826,17949,duque de caxias,RJ
+cust_002002,uniq_000682,63891,caucaia,CE
+cust_002003,uniq_000910,51175,contagem,MG
+cust_002004,uniq_002409,61580,sorocaba,SP
+cust_002005,uniq_002172,12158,brasilia,DF
+cust_002006,uniq_001053,47188,niteroi,RJ
+cust_002007,uniq_000614,62978,sao paulo,SP
+cust_002008,uniq_000768,34752,sorocaba,SP
+cust_002009,uniq_001372,87614,caxias do sul,RS
+cust_002010,uniq_001445,53423,santos,SP
+cust_002011,uniq_000469,36889,ribeirao preto,SP
+cust_002012,uniq_000167,4051,sao paulo,SP
+cust_002013,uniq_001263,17680,niteroi,RJ
+cust_002014,uniq_002033,48182,campinas,SP
+cust_002015,uniq_000388,40602,rio de janeiro,RJ
+cust_002016,uniq_001041,87279,sorocaba,SP
+cust_002017,uniq_000412,78809,santos,SP
+cust_002018,uniq_000617,16737,belo horizonte,MG
+cust_002019,uniq_001561,59556,campinas,SP
+cust_002020,uniq_000729,45985,belo horizonte,MG
+cust_002021,uniq_000672,11013,sorocaba,SP
+cust_002022,uniq_002538,66924,campinas,SP
+cust_002023,uniq_000439,54180,campinas,SP
+cust_002024,uniq_000482,9658,niteroi,RJ
+cust_002025,uniq_002370,47339,sao paulo,SP
+cust_002026,uniq_001403,73434,blumenau,SC
+cust_002027,uniq_000109,33383,santos,SP
+cust_002028,uniq_001083,36331,niteroi,RJ
+cust_002029,uniq_001441,11905,uberlandia,MG
+cust_002030,uniq_000645,21229,ribeirao preto,SP
+cust_002031,uniq_001398,98129,rio de janeiro,RJ
+cust_002032,uniq_001653,62458,sorocaba,SP
+cust_002033,uniq_000639,18428,niteroi,RJ
+cust_002034,uniq_002071,48791,campinas,SP
+cust_002035,uniq_001154,20081,joinville,SC
+cust_002036,uniq_002456,44830,caucaia,CE
+cust_002037,uniq_000223,15412,sao paulo,SP
+cust_002038,uniq_000826,62260,contagem,MG
+cust_002039,uniq_001839,57448,londrina,PR
+cust_002040,uniq_002282,63709,sorocaba,SP
+cust_002041,uniq_000565,44922,joinville,SC
+cust_002042,uniq_002499,29311,contagem,MG
+cust_002043,uniq_000493,25705,olinda,PE
+cust_002044,uniq_001061,22299,varzea grande,MT
+cust_002045,uniq_000802,43512,campinas,SP
+cust_002046,uniq_001082,45694,duque de caxias,RJ
+cust_002047,uniq_002301,67677,rio de janeiro,RJ
+cust_002048,uniq_001868,6190,sorocaba,SP
+cust_002049,uniq_002030,28888,sorocaba,SP
+cust_002050,uniq_000647,85408,cuiaba,MT
+cust_002051,uniq_002414,91608,santos,SP
+cust_002052,uniq_001110,93158,duque de caxias,RJ
+cust_002053,uniq_001662,31327,salvador,BA
+cust_002054,uniq_001779,14575,ribeirao preto,SP
+cust_002055,uniq_001690,20619,duque de caxias,RJ
+cust_002056,uniq_001534,14055,sao luis,MA
+cust_002057,uniq_001224,95501,duque de caxias,RJ
+cust_002058,uniq_001651,88454,sao paulo,SP
+cust_002059,uniq_002308,81244,ribeirao preto,SP
+cust_002060,uniq_000993,73249,caucaia,CE
+cust_002061,uniq_001302,34970,sao paulo,SP
+cust_002062,uniq_000459,48092,duque de caxias,RJ
+cust_002063,uniq_000905,84300,ribeirao preto,SP
+cust_002064,uniq_001968,81621,duque de caxias,RJ
+cust_002065,uniq_001632,52362,recife,PE
+cust_002066,uniq_000538,83917,duque de caxias,RJ
+cust_002067,uniq_001392,35328,sao luis,MA
+cust_002068,uniq_002070,41936,santos,SP
+cust_002069,uniq_000316,84120,rio de janeiro,RJ
+cust_002070,uniq_000157,38265,salvador,BA
+cust_002071,uniq_001001,75463,duque de caxias,RJ
+cust_002072,uniq_001674,45874,sorocaba,SP
+cust_002073,uniq_000798,30489,salvador,BA
+cust_002074,uniq_002093,22664,sorocaba,SP
+cust_002075,uniq_002159,61060,niteroi,RJ
+cust_002076,uniq_001357,48485,sao luis,MA
+cust_002077,uniq_000966,37569,sao paulo,SP
+cust_002078,uniq_000106,74571,santos,SP
+cust_002079,uniq_002094,1104,sorocaba,SP
+cust_002080,uniq_002282,10127,sao paulo,SP
+cust_002081,uniq_001128,96218,sao paulo,SP
+cust_002082,uniq_001316,66688,porto alegre,RS
+cust_002083,uniq_001921,55412,santos,SP
+cust_002084,uniq_001773,2458,porto alegre,RS
+cust_002085,uniq_000344,60244,sorocaba,SP
+cust_002086,uniq_001714,44044,sao paulo,SP
+cust_002087,uniq_002357,60388,sao paulo,SP
+cust_002088,uniq_001914,5059,porto alegre,RS
+cust_002089,uniq_001225,55512,duque de caxias,RJ
+cust_002090,uniq_001334,58208,sorocaba,SP
+cust_002091,uniq_000662,29714,salvador,BA
+cust_002092,uniq_001684,6396,contagem,MG
+cust_002093,uniq_000615,97185,ribeirao preto,SP
+cust_002094,uniq_000871,71228,aparecida de goiania,GO
+cust_002095,uniq_000675,62544,sao paulo,SP
+cust_002096,uniq_000855,76941,sorocaba,SP
+cust_002097,uniq_000935,67420,duque de caxias,RJ
+cust_002098,uniq_000211,14304,ribeirao preto,SP
+cust_002099,uniq_001829,46024,santos,SP
+cust_002100,uniq_001124,88977,londrina,PR
+cust_002101,uniq_002421,29497,sorocaba,SP
+cust_002102,uniq_000461,97247,blumenau,SC
+cust_002103,uniq_001706,7370,olinda,PE
+cust_002104,uniq_000456,33741,contagem,MG
+cust_002105,uniq_001395,35672,caxias do sul,RS
+cust_002106,uniq_001251,62123,pelotas,RS
+cust_002107,uniq_001143,18433,campo grande,MS
+cust_002108,uniq_001669,23684,sao paulo,SP
+cust_002109,uniq_002111,66546,sorocaba,SP
+cust_002110,uniq_000807,29178,niteroi,RJ
+cust_002111,uniq_002166,88020,niteroi,RJ
+cust_002112,uniq_000471,87148,sao paulo,SP
+cust_002113,uniq_000747,30972,contagem,MG
+cust_002114,uniq_000792,56434,sao paulo,SP
+cust_002115,uniq_002431,33955,olinda,PE
+cust_002116,uniq_000302,35142,ribeirao preto,SP
+cust_002117,uniq_001007,67365,santos,SP
+cust_002118,uniq_001082,30019,sorocaba,SP
+cust_002119,uniq_002040,15777,sorocaba,SP
+cust_002120,uniq_001239,26652,sao paulo,SP
+cust_002121,uniq_002465,93013,sao paulo,SP
+cust_002122,uniq_001887,26672,campinas,SP
+cust_002123,uniq_001794,37020,sao paulo,SP
+cust_002124,uniq_001919,63252,santos,SP
+cust_002125,uniq_000411,11018,santos,SP
+cust_002126,uniq_001145,27577,santos,SP
+cust_002127,uniq_001494,18293,sao paulo,SP
+cust_002128,uniq_000531,92510,sorocaba,SP
+cust_002129,uniq_000302,93340,sorocaba,SP
+cust_002130,uniq_000346,75816,santos,SP
+cust_002131,uniq_002012,25464,curitiba,PR
+cust_002132,uniq_001675,62024,campo grande,MS
+cust_002133,uniq_000717,66563,recife,PE
+cust_002134,uniq_001879,87067,duque de caxias,RJ
+cust_002135,uniq_001772,16460,duque de caxias,RJ
+cust_002136,uniq_002082,73888,campinas,SP
+cust_002137,uniq_002320,20215,maringa,PR
+cust_002138,uniq_002249,57300,maringa,PR
+cust_002139,uniq_000461,88043,feira de santana,BA
+cust_002140,uniq_001961,7145,goiania,GO
+cust_002141,uniq_001001,15655,niteroi,RJ
+cust_002142,uniq_001027,81499,curitiba,PR
+cust_002143,uniq_001650,2856,joinville,SC
+cust_002144,uniq_001535,68826,sao paulo,SP
+cust_002145,uniq_001070,50621,recife,PE
+cust_002146,uniq_002548,35313,santos,SP
+cust_002147,uniq_000445,86409,campo grande,MS
+cust_002148,uniq_000247,85046,londrina,PR
+cust_002149,uniq_000074,33272,sorocaba,SP
+cust_002150,uniq_002076,1438,contagem,MG
+cust_002151,uniq_001036,13687,sorocaba,SP
+cust_002152,uniq_001115,11628,maringa,PR
+cust_002153,uniq_001655,98239,joinville,SC
+cust_002154,uniq_001110,60091,juiz de fora,MG
+cust_002155,uniq_001463,67996,salvador,BA
+cust_002156,uniq_000149,23859,santos,SP
+cust_002157,uniq_000398,85217,sao paulo,SP
+cust_002158,uniq_002376,72543,campinas,SP
+cust_002159,uniq_001149,75460,santos,SP
+cust_002160,uniq_000426,47355,rio de janeiro,RJ
+cust_002161,uniq_000942,70125,santos,SP
+cust_002162,uniq_000853,54860,sao paulo,SP
+cust_002163,uniq_000699,39071,rio de janeiro,RJ
+cust_002164,uniq_000748,59854,brasilia,DF
+cust_002165,uniq_001859,33109,ribeirao preto,SP
+cust_002166,uniq_000272,95330,aparecida de goiania,GO
+cust_002167,uniq_000789,71978,duque de caxias,RJ
+cust_002168,uniq_001193,74158,sorocaba,SP
+cust_002169,uniq_001377,71953,duque de caxias,RJ
+cust_002170,uniq_002245,45385,sao paulo,SP
+cust_002171,uniq_002354,95107,ribeirao preto,SP
+cust_002172,uniq_000758,21578,rio de janeiro,RJ
+cust_002173,uniq_001375,57296,campinas,SP
+cust_002174,uniq_000057,7871,campinas,SP
+cust_002175,uniq_001573,30167,uberlandia,MG
+cust_002176,uniq_000389,57879,sao paulo,SP
+cust_002177,uniq_000186,49462,feira de santana,BA
+cust_002178,uniq_001712,94174,sao paulo,SP
+cust_002179,uniq_000454,61757,ananindeua,PA
+cust_002180,uniq_001217,41735,joinville,SC
+cust_002181,uniq_000257,43245,belem,PA
+cust_002182,uniq_001901,61547,salvador,BA
+cust_002183,uniq_001950,79321,sorocaba,SP
+cust_002184,uniq_001465,28376,duque de caxias,RJ
+cust_002185,uniq_002131,58876,campinas,SP
+cust_002186,uniq_001113,57897,blumenau,SC
+cust_002187,uniq_000475,1934,belo horizonte,MG
+cust_002188,uniq_000385,91363,sorocaba,SP
+cust_002189,uniq_000559,57413,recife,PE
+cust_002190,uniq_000510,24965,ribeirao preto,SP
+cust_002191,uniq_000824,63726,belo horizonte,MG
+cust_002192,uniq_000546,68102,porto alegre,RS
+cust_002193,uniq_001507,91609,santos,SP
+cust_002194,uniq_000378,4373,belo horizonte,MG
+cust_002195,uniq_001585,41958,joinville,SC
+cust_002196,uniq_000851,18835,campinas,SP
+cust_002197,uniq_001751,57871,rio de janeiro,RJ
+cust_002198,uniq_001307,50658,sorocaba,SP
+cust_002199,uniq_002308,48024,juiz de fora,MG
+cust_002200,uniq_001121,98219,sorocaba,SP
+cust_002201,uniq_000752,53633,recife,PE
+cust_002202,uniq_001502,41689,goiania,GO
+cust_002203,uniq_001679,7663,campinas,SP
+cust_002204,uniq_001120,29670,campinas,SP
+cust_002205,uniq_001427,89830,uberlandia,MG
+cust_002206,uniq_001200,45714,caxias do sul,RS
+cust_002207,uniq_000779,91129,niteroi,RJ
+cust_002208,uniq_000799,53729,campinas,SP
+cust_002209,uniq_002313,55257,sorocaba,SP
+cust_002210,uniq_001722,43557,campo grande,MS
+cust_002211,uniq_000243,56098,duque de caxias,RJ
+cust_002212,uniq_002453,7601,brasilia,DF
+cust_002213,uniq_001815,6697,rio de janeiro,RJ
+cust_002214,uniq_000127,48101,recife,PE
+cust_002215,uniq_001856,60196,santos,SP
+cust_002216,uniq_001503,55535,campinas,SP
+cust_002217,uniq_002334,43485,olinda,PE
+cust_002218,uniq_001247,30108,fortaleza,CE
+cust_002219,uniq_001322,71194,sao paulo,SP
+cust_002220,uniq_000802,60865,sao paulo,SP
+cust_002221,uniq_000820,5665,rio de janeiro,RJ
+cust_002222,uniq_001575,45785,campinas,SP
+cust_002223,uniq_002110,71377,campinas,SP
+cust_002224,uniq_002271,78632,aparecida de goiania,GO
+cust_002225,uniq_001965,29402,sorocaba,SP
+cust_002226,uniq_001554,92571,porto alegre,RS
+cust_002227,uniq_001275,65518,sorocaba,SP
+cust_002228,uniq_000865,44329,santos,SP
+cust_002229,uniq_001958,63084,uberlandia,MG
+cust_002230,uniq_000811,87280,santos,SP
+cust_002231,uniq_000683,23457,uberlandia,MG
+cust_002232,uniq_002213,15886,sao paulo,SP
+cust_002233,uniq_001503,44604,caucaia,CE
+cust_002234,uniq_000903,9308,curitiba,PR
+cust_002235,uniq_002206,83726,brasilia,DF
+cust_002236,uniq_002454,97072,sao paulo,SP
+cust_002237,uniq_000810,60952,campinas,SP
+cust_002238,uniq_001329,98004,sao paulo,SP
+cust_002239,uniq_001233,7805,rio de janeiro,RJ
+cust_002240,uniq_001789,63621,campinas,SP
+cust_002241,uniq_002425,44847,campinas,SP
+cust_002242,uniq_001398,28458,sao paulo,SP
+cust_002243,uniq_002035,31865,sorocaba,SP
+cust_002244,uniq_001518,54972,sorocaba,SP
+cust_002245,uniq_002261,64522,ribeirao preto,SP
+cust_002246,uniq_001031,17236,santos,SP
+cust_002247,uniq_000982,61841,juiz de fora,MG
+cust_002248,uniq_001077,92726,campinas,SP
+cust_002249,uniq_002541,2029,santos,SP
+cust_002250,uniq_001559,87956,rio de janeiro,RJ
+cust_002251,uniq_000389,61161,maringa,PR
+cust_002252,uniq_000104,34879,sao paulo,SP
+cust_002253,uniq_001322,73749,contagem,MG
+cust_002254,uniq_002054,62160,ananindeua,PA
+cust_002255,uniq_001222,77103,rio de janeiro,RJ
+cust_002256,uniq_001428,9047,aparecida de goiania,GO
+cust_002257,uniq_002036,6838,florianopolis,SC
+cust_002258,uniq_001316,64558,campinas,SP
+cust_002259,uniq_002316,31061,niteroi,RJ
+cust_002260,uniq_001626,24588,porto alegre,RS
+cust_002261,uniq_001864,42705,varzea grande,MT
+cust_002262,uniq_001992,72795,niteroi,RJ
+cust_002263,uniq_001598,18797,santos,SP
+cust_002264,uniq_000127,97345,juiz de fora,MG
+cust_002265,uniq_001089,42652,campinas,SP
+cust_002266,uniq_000360,15907,londrina,PR
+cust_002267,uniq_001301,8041,duque de caxias,RJ
+cust_002268,uniq_000365,85868,caxias do sul,RS
+cust_002269,uniq_001298,12208,brasilia,DF
+cust_002270,uniq_000876,42476,belo horizonte,MG
+cust_002271,uniq_000051,67200,uberlandia,MG
+cust_002272,uniq_000318,51796,maringa,PR
+cust_002273,uniq_001282,26994,feira de santana,BA
+cust_002274,uniq_000200,11684,brasilia,DF
+cust_002275,uniq_002182,71428,sorocaba,SP
+cust_002276,uniq_001934,49538,uberlandia,MG
+cust_002277,uniq_001808,5762,sorocaba,SP
+cust_002278,uniq_000438,18938,brasilia,DF
+cust_002279,uniq_002029,56707,uberlandia,MG
+cust_002280,uniq_001618,17669,duque de caxias,RJ
+cust_002281,uniq_000995,39753,sorocaba,SP
+cust_002282,uniq_000001,13327,campinas,SP
+cust_002283,uniq_001348,79899,pelotas,RS
+cust_002284,uniq_002029,63409,ribeirao preto,SP
+cust_002285,uniq_000085,78610,ribeirao preto,SP
+cust_002286,uniq_000134,6192,brasilia,DF
+cust_002287,uniq_000976,38180,maringa,PR
+cust_002288,uniq_001304,27493,sao paulo,SP
+cust_002289,uniq_001209,62648,ribeirao preto,SP
+cust_002290,uniq_001086,82327,sao luis,MA
+cust_002291,uniq_000650,23527,porto alegre,RS
+cust_002292,uniq_000152,77202,uberlandia,MG
+cust_002293,uniq_000079,58459,sao paulo,SP
+cust_002294,uniq_000251,82580,sao paulo,SP
+cust_002295,uniq_001760,9045,sorocaba,SP
+cust_002296,uniq_002004,99100,porto alegre,RS
+cust_002297,uniq_001109,44025,campinas,SP
+cust_002298,uniq_000197,28727,santos,SP
+cust_002299,uniq_001059,19089,pelotas,RS
+cust_002300,uniq_002513,98505,caucaia,CE
+cust_002301,uniq_000637,88453,londrina,PR
+cust_002302,uniq_001252,13987,duque de caxias,RJ
+cust_002303,uniq_001371,45044,niteroi,RJ
+cust_002304,uniq_000841,73619,duque de caxias,RJ
+cust_002305,uniq_001116,59486,sorocaba,SP
+cust_002306,uniq_001202,19714,duque de caxias,RJ
+cust_002307,uniq_001208,36677,rio de janeiro,RJ
+cust_002308,uniq_001830,37445,uberlandia,MG
+cust_002309,uniq_001481,29585,aparecida de goiania,GO
+cust_002310,uniq_000136,96108,campo grande,MS
+cust_002311,uniq_000016,21088,santos,SP
+cust_002312,uniq_001047,70953,campinas,SP
+cust_002313,uniq_002314,91274,campinas,SP
+cust_002314,uniq_000094,79685,sao paulo,SP
+cust_002315,uniq_000181,80146,campinas,SP
+cust_002316,uniq_001732,16722,ribeirao preto,SP
+cust_002317,uniq_001149,14192,curitiba,PR
+cust_002318,uniq_000588,78508,duque de caxias,RJ
+cust_002319,uniq_000528,74925,goiania,GO
+cust_002320,uniq_001695,74446,sorocaba,SP
+cust_002321,uniq_001335,42434,campinas,SP
+cust_002322,uniq_001627,52820,sorocaba,SP
+cust_002323,uniq_000714,2524,santos,SP
+cust_002324,uniq_001342,29811,sorocaba,SP
+cust_002325,uniq_002193,53307,cuiaba,MT
+cust_002326,uniq_000807,13446,ribeirao preto,SP
+cust_002327,uniq_001010,13874,campinas,SP
+cust_002328,uniq_000417,5476,uberlandia,MG
+cust_002329,uniq_001628,21783,rio de janeiro,RJ
+cust_002330,uniq_000082,99293,juiz de fora,MG
+cust_002331,uniq_000634,69907,ribeirao preto,SP
+cust_002332,uniq_001818,94876,feira de santana,BA
+cust_002333,uniq_000049,26456,santos,SP
+cust_002334,uniq_002522,60285,rio de janeiro,RJ
+cust_002335,uniq_001030,89296,caxias do sul,RS
+cust_002336,uniq_001016,35850,brasilia,DF
+cust_002337,uniq_001368,66059,santos,SP
+cust_002338,uniq_001629,69589,belo horizonte,MG
+cust_002339,uniq_001171,83395,sorocaba,SP
+cust_002340,uniq_002254,96977,sorocaba,SP
+cust_002341,uniq_002453,61903,santos,SP
+cust_002342,uniq_000510,58670,caxias do sul,RS
+cust_002343,uniq_001802,87015,ribeirao preto,SP
+cust_002344,uniq_000767,68767,pelotas,RS
+cust_002345,uniq_002538,36806,sao paulo,SP
+cust_002346,uniq_000645,63383,brasilia,DF
+cust_002347,uniq_000752,55364,feira de santana,BA
+cust_002348,uniq_001821,23646,ribeirao preto,SP
+cust_002349,uniq_002012,52072,sorocaba,SP
+cust_002350,uniq_000327,62732,santos,SP
+cust_002351,uniq_001416,90474,feira de santana,BA
+cust_002352,uniq_000881,58466,santos,SP
+cust_002353,uniq_001559,17326,niteroi,RJ
+cust_002354,uniq_001419,98775,niteroi,RJ
+cust_002355,uniq_002513,58227,blumenau,SC
+cust_002356,uniq_002380,29423,duque de caxias,RJ
+cust_002357,uniq_001667,75687,rio de janeiro,RJ
+cust_002358,uniq_001732,39085,cuiaba,MT
+cust_002359,uniq_002291,37634,ribeirao preto,SP
+cust_002360,uniq_000467,84103,feira de santana,BA
+cust_002361,uniq_001850,86889,campinas,SP
+cust_002362,uniq_001968,52868,niteroi,RJ
+cust_002363,uniq_000324,37928,brasilia,DF
+cust_002364,uniq_002247,86463,belo horizonte,MG
+cust_002365,uniq_001783,18157,porto alegre,RS
+cust_002366,uniq_000885,74971,sorocaba,SP
+cust_002367,uniq_001235,58820,santos,SP
+cust_002368,uniq_001248,85550,sorocaba,SP
+cust_002369,uniq_002342,42635,rio de janeiro,RJ
+cust_002370,uniq_002471,83369,rio de janeiro,RJ
+cust_002371,uniq_002057,2503,sorocaba,SP
+cust_002372,uniq_001663,76067,sorocaba,SP
+cust_002373,uniq_000265,7913,sorocaba,SP
+cust_002374,uniq_002332,64597,campinas,SP
+cust_002375,uniq_000341,20332,sorocaba,SP
+cust_002376,uniq_000425,96382,brasilia,DF
+cust_002377,uniq_000177,77162,uberlandia,MG
+cust_002378,uniq_002416,11356,sorocaba,SP
+cust_002379,uniq_001257,89311,pelotas,RS
+cust_002380,uniq_000601,25941,salvador,BA
+cust_002381,uniq_000205,55017,campinas,SP
+cust_002382,uniq_001050,9442,sorocaba,SP
+cust_002383,uniq_001845,11450,santos,SP
+cust_002384,uniq_002536,24889,santos,SP
+cust_002385,uniq_001408,53906,londrina,PR
+cust_002386,uniq_001548,54746,varzea grande,MT
+cust_002387,uniq_002131,85704,sao paulo,SP
+cust_002388,uniq_002299,17348,maringa,PR
+cust_002389,uniq_000713,75197,santos,SP
+cust_002390,uniq_002529,1582,belo horizonte,MG
+cust_002391,uniq_001323,29818,curitiba,PR
+cust_002392,uniq_002371,18325,santos,SP
+cust_002393,uniq_000299,13265,ribeirao preto,SP
+cust_002394,uniq_000248,58867,contagem,MG
+cust_002395,uniq_002255,90166,campo grande,MS
+cust_002396,uniq_001715,67030,sao paulo,SP
+cust_002397,uniq_000446,85553,santos,SP
+cust_002398,uniq_002282,59552,campinas,SP
+cust_002399,uniq_000261,6317,uberlandia,MG
+cust_002400,uniq_001739,35252,contagem,MG
+cust_002401,uniq_000522,82542,blumenau,SC
+cust_002402,uniq_000180,5376,curitiba,PR
+cust_002403,uniq_002055,10623,aparecida de goiania,GO
+cust_002404,uniq_002160,83545,joinville,SC
+cust_002405,uniq_000269,7265,campinas,SP
+cust_002406,uniq_000237,95984,contagem,MG
+cust_002407,uniq_001566,76100,campinas,SP
+cust_002408,uniq_000073,66845,ribeirao preto,SP
+cust_002409,uniq_001902,54094,recife,PE
+cust_002410,uniq_002334,9844,porto alegre,RS
+cust_002411,uniq_001915,42039,sao luis,MA
+cust_002412,uniq_000588,80967,ribeirao preto,SP
+cust_002413,uniq_000484,90481,duque de caxias,RJ
+cust_002414,uniq_001735,45250,niteroi,RJ
+cust_002415,uniq_000157,84090,ribeirao preto,SP
+cust_002416,uniq_001371,77882,sao paulo,SP
+cust_002417,uniq_001144,6704,niteroi,RJ
+cust_002418,uniq_001898,62396,campinas,SP
+cust_002419,uniq_000516,61992,olinda,PE
+cust_002420,uniq_001943,54744,campinas,SP
+cust_002421,uniq_001783,77453,ribeirao preto,SP
+cust_002422,uniq_000608,89059,curitiba,PR
+cust_002423,uniq_000909,55498,ribeirao preto,SP
+cust_002424,uniq_000168,32718,goiania,GO
+cust_002425,uniq_001145,98316,caxias do sul,RS
+cust_002426,uniq_000664,96398,sao paulo,SP
+cust_002427,uniq_000289,68918,pelotas,RS
+cust_002428,uniq_001427,64422,belo horizonte,MG
+cust_002429,uniq_001447,11310,maringa,PR
+cust_002430,uniq_000219,40759,feira de santana,BA
+cust_002431,uniq_000473,20631,caxias do sul,RS
+cust_002432,uniq_000210,51973,juiz de fora,MG
+cust_002433,uniq_001731,82797,sorocaba,SP
+cust_002434,uniq_000861,23228,porto alegre,RS
+cust_002435,uniq_000181,99677,caucaia,CE
+cust_002436,uniq_000488,13823,uberlandia,MG
+cust_002437,uniq_002488,10735,juiz de fora,MG
+cust_002438,uniq_000652,97471,duque de caxias,RJ
+cust_002439,uniq_001745,10932,maringa,PR
+cust_002440,uniq_001194,73782,campo grande,MS
+cust_002441,uniq_000463,76574,santos,SP
+cust_002442,uniq_000783,33680,sao paulo,SP
+cust_002443,uniq_000035,7371,rio de janeiro,RJ
+cust_002444,uniq_001904,31539,rio de janeiro,RJ
+cust_002445,uniq_000852,7787,juiz de fora,MG
+cust_002446,uniq_001273,67551,santos,SP
+cust_002447,uniq_000389,88991,campinas,SP
+cust_002448,uniq_002101,99710,uberlandia,MG
+cust_002449,uniq_000556,80243,belo horizonte,MG
+cust_002450,uniq_001444,77687,contagem,MG
+cust_002451,uniq_002225,88273,caxias do sul,RS
+cust_002452,uniq_001818,77216,juiz de fora,MG
+cust_002453,uniq_001538,65400,florianopolis,SC
+cust_002454,uniq_002264,99628,juiz de fora,MG
+cust_002455,uniq_000449,32930,rio de janeiro,RJ
+cust_002456,uniq_002457,41862,uberlandia,MG
+cust_002457,uniq_001419,90724,campinas,SP
+cust_002458,uniq_001045,31791,ribeirao preto,SP
+cust_002459,uniq_000652,30573,niteroi,RJ
+cust_002460,uniq_001899,16056,brasilia,DF
+cust_002461,uniq_002489,28275,porto alegre,RS
+cust_002462,uniq_001759,59770,santos,SP
+cust_002463,uniq_000083,88752,contagem,MG
+cust_002464,uniq_001196,14489,santos,SP
+cust_002465,uniq_001867,68400,curitiba,PR
+cust_002466,uniq_001013,76866,salvador,BA
+cust_002467,uniq_001971,89670,contagem,MG
+cust_002468,uniq_001803,75254,uberlandia,MG
+cust_002469,uniq_000171,16434,santos,SP
+cust_002470,uniq_001422,49401,rio de janeiro,RJ
+cust_002471,uniq_000438,95276,brasilia,DF
+cust_002472,uniq_001240,90931,pelotas,RS
+cust_002473,uniq_000979,61660,rio de janeiro,RJ
+cust_002474,uniq_002057,96354,ribeirao preto,SP
+cust_002475,uniq_002213,67134,sorocaba,SP
+cust_002476,uniq_001176,7424,campinas,SP
+cust_002477,uniq_001369,91491,sao paulo,SP
+cust_002478,uniq_001596,17646,sao paulo,SP
+cust_002479,uniq_001671,38694,fortaleza,CE
+cust_002480,uniq_001620,24571,rio de janeiro,RJ
+cust_002481,uniq_001996,72237,sorocaba,SP
+cust_002482,uniq_002504,3968,sorocaba,SP
+cust_002483,uniq_002111,64393,sorocaba,SP
+cust_002484,uniq_000343,86572,blumenau,SC
+cust_002485,uniq_001214,78986,santos,SP
+cust_002486,uniq_001176,31391,curitiba,PR
+cust_002487,uniq_001297,89796,joinville,SC
+cust_002488,uniq_001347,36841,campinas,SP
+cust_002489,uniq_001830,68325,juiz de fora,MG
+cust_002490,uniq_001073,51159,fortaleza,CE
+cust_002491,uniq_000671,7696,campinas,SP
+cust_002492,uniq_001166,1290,ribeirao preto,SP
+cust_002493,uniq_002178,19130,recife,PE
+cust_002494,uniq_000794,93529,brasilia,DF
+cust_002495,uniq_000053,95442,niteroi,RJ
+cust_002496,uniq_002489,41600,belo horizonte,MG
+cust_002497,uniq_000499,96895,sao paulo,SP
+cust_002498,uniq_001537,5896,florianopolis,SC
+cust_002499,uniq_002040,96772,niteroi,RJ
+cust_002500,uniq_000699,23860,sorocaba,SP
+cust_002501,uniq_000867,4643,porto alegre,RS
+cust_002502,uniq_000715,76028,caucaia,CE
+cust_002503,uniq_000382,38861,salvador,BA
+cust_002504,uniq_000390,29940,campinas,SP
+cust_002505,uniq_000476,76206,sao paulo,SP
+cust_002506,uniq_001168,33972,caucaia,CE
+cust_002507,uniq_001353,75534,olinda,PE
+cust_002508,uniq_000040,20329,niteroi,RJ
+cust_002509,uniq_002157,9504,contagem,MG
+cust_002510,uniq_001723,33166,niteroi,RJ
+cust_002511,uniq_000180,61338,campinas,SP
+cust_002512,uniq_002148,23272,ribeirao preto,SP
+cust_002513,uniq_000077,15143,santos,SP
+cust_002514,uniq_001429,75165,sao paulo,SP
+cust_002515,uniq_001186,49827,salvador,BA
+cust_002516,uniq_001280,43713,campinas,SP
+cust_002517,uniq_002438,24728,ribeirao preto,SP
+cust_002518,uniq_002364,2751,rio de janeiro,RJ
+cust_002519,uniq_000711,6262,sorocaba,SP
+cust_002520,uniq_001478,68467,ribeirao preto,SP
+cust_002521,uniq_002445,8921,belo horizonte,MG
+cust_002522,uniq_001858,25445,santos,SP
+cust_002523,uniq_002263,91177,juiz de fora,MG
+cust_002524,uniq_001108,35053,goiania,GO
+cust_002525,uniq_000721,74719,ribeirao preto,SP
+cust_002526,uniq_001302,34988,aparecida de goiania,GO
+cust_002527,uniq_002083,93249,aparecida de goiania,GO
+cust_002528,uniq_002368,82363,salvador,BA
+cust_002529,uniq_001748,47528,uberlandia,MG
+cust_002530,uniq_001801,68755,uberlandia,MG
+cust_002531,uniq_001305,41915,uberlandia,MG
+cust_002532,uniq_000814,94495,pelotas,RS
+cust_002533,uniq_001078,36481,sao paulo,SP
+cust_002534,uniq_001269,83808,caucaia,CE
+cust_002535,uniq_002079,62013,juiz de fora,MG
+cust_002536,uniq_001416,64724,blumenau,SC
+cust_002537,uniq_002022,35804,ribeirao preto,SP
+cust_002538,uniq_000069,83453,sorocaba,SP
+cust_002539,uniq_001930,74880,niteroi,RJ
+cust_002540,uniq_001293,81713,niteroi,RJ
+cust_002541,uniq_002545,80329,niteroi,RJ
+cust_002542,uniq_001202,16603,sao paulo,SP
+cust_002543,uniq_001220,87707,sao paulo,SP
+cust_002544,uniq_000325,84341,duque de caxias,RJ
+cust_002545,uniq_002057,25037,sao paulo,SP
+cust_002546,uniq_001788,98182,belem,PA
+cust_002547,uniq_002199,53174,ribeirao preto,SP
+cust_002548,uniq_000236,32869,santos,SP
+cust_002549,uniq_000539,23120,santos,SP
+cust_002550,uniq_002236,37106,duque de caxias,RJ
+cust_002551,uniq_000107,4717,duque de caxias,RJ
+cust_002552,uniq_001295,69379,juiz de fora,MG
+cust_002553,uniq_001032,71073,caucaia,CE
+cust_002554,uniq_002395,67109,sorocaba,SP
+cust_002555,uniq_002184,55348,caxias do sul,RS
+cust_002556,uniq_002286,36911,santos,SP
+cust_002557,uniq_000737,72668,sorocaba,SP
+cust_002558,uniq_001498,87265,duque de caxias,RJ
+cust_002559,uniq_001785,9674,sao paulo,SP
+cust_002560,uniq_002467,38904,juiz de fora,MG
+cust_002561,uniq_000018,99556,pelotas,RS
+cust_002562,uniq_002491,86334,maringa,PR
+cust_002563,uniq_000906,99439,duque de caxias,RJ
+cust_002564,uniq_000327,19145,juiz de fora,MG
+cust_002565,uniq_001569,47034,campinas,SP
+cust_002566,uniq_001992,13904,sao paulo,SP
+cust_002567,uniq_000330,86738,sao paulo,SP
+cust_002568,uniq_000103,52362,uberlandia,MG
+cust_002569,uniq_002286,25113,campo grande,MS
+cust_002570,uniq_002380,9941,campinas,SP
+cust_002571,uniq_000398,74018,uberlandia,MG
+cust_002572,uniq_002305,81371,curitiba,PR
+cust_002573,uniq_002319,88042,salvador,BA
+cust_002574,uniq_002543,97165,niteroi,RJ
+cust_002575,uniq_000551,81651,juiz de fora,MG
+cust_002576,uniq_001475,78844,porto alegre,RS
+cust_002577,uniq_002535,81364,feira de santana,BA
+cust_002578,uniq_002301,99870,ribeirao preto,SP
+cust_002579,uniq_001542,46839,olinda,PE
+cust_002580,uniq_000502,76098,sao paulo,SP
+cust_002581,uniq_000215,82178,feira de santana,BA
+cust_002582,uniq_000660,12511,sao paulo,SP
+cust_002583,uniq_000166,69379,campinas,SP
+cust_002584,uniq_000497,34544,campinas,SP
+cust_002585,uniq_000191,14112,duque de caxias,RJ
+cust_002586,uniq_001943,17865,sao paulo,SP
+cust_002587,uniq_001504,12304,ribeirao preto,SP
+cust_002588,uniq_001320,89875,duque de caxias,RJ
+cust_002589,uniq_002064,77419,sorocaba,SP
+cust_002590,uniq_001047,11112,curitiba,PR
+cust_002591,uniq_001027,62920,goiania,GO
+cust_002592,uniq_000527,66381,belo horizonte,MG
+cust_002593,uniq_001134,52417,ribeirao preto,SP
+cust_002594,uniq_000445,61004,sao paulo,SP
+cust_002595,uniq_001502,90818,aparecida de goiania,GO
+cust_002596,uniq_002543,52365,campinas,SP
+cust_002597,uniq_001359,66298,ribeirao preto,SP
+cust_002598,uniq_000762,57538,caucaia,CE
+cust_002599,uniq_001754,40218,caucaia,CE
+cust_002600,uniq_002091,89193,ribeirao preto,SP
+cust_002601,uniq_001203,41978,juiz de fora,MG
+cust_002602,uniq_000638,80194,niteroi,RJ
+cust_002603,uniq_001820,60918,londrina,PR
+cust_002604,uniq_000477,68809,ribeirao preto,SP
+cust_002605,uniq_002543,76266,sorocaba,SP
+cust_002606,uniq_000810,73857,uberlandia,MG
+cust_002607,uniq_000893,56870,campinas,SP
+cust_002608,uniq_001853,61932,juiz de fora,MG
+cust_002609,uniq_000031,51366,sorocaba,SP
+cust_002610,uniq_000517,34573,brasilia,DF
+cust_002611,uniq_000320,72962,joinville,SC
+cust_002612,uniq_000997,88008,rio de janeiro,RJ
+cust_002613,uniq_001411,70820,curitiba,PR
+cust_002614,uniq_000458,77443,santos,SP
+cust_002615,uniq_000877,83203,duque de caxias,RJ
+cust_002616,uniq_001969,37368,ribeirao preto,SP
+cust_002617,uniq_002396,7192,brasilia,DF
+cust_002618,uniq_000036,34419,feira de santana,BA
+cust_002619,uniq_001599,75739,goiania,GO
+cust_002620,uniq_000065,81755,brasilia,DF
+cust_002621,uniq_001326,51861,fortaleza,CE
+cust_002622,uniq_002242,78079,ribeirao preto,SP
+cust_002623,uniq_002035,8394,olinda,PE
+cust_002624,uniq_000593,64767,belo horizonte,MG
+cust_002625,uniq_000659,68221,duque de caxias,RJ
+cust_002626,uniq_001997,51275,belo horizonte,MG
+cust_002627,uniq_002090,71936,sao paulo,SP
+cust_002628,uniq_000716,49654,sorocaba,SP
+cust_002629,uniq_000007,52838,ribeirao preto,SP
+cust_002630,uniq_001133,60792,sorocaba,SP
+cust_002631,uniq_001580,79585,niteroi,RJ
+cust_002632,uniq_001131,25621,brasilia,DF
+cust_002633,uniq_002383,30724,contagem,MG
+cust_002634,uniq_002074,42465,niteroi,RJ
+cust_002635,uniq_002009,20988,niteroi,RJ
+cust_002636,uniq_000051,34087,niteroi,RJ
+cust_002637,uniq_002176,35722,campinas,SP
+cust_002638,uniq_001925,32109,feira de santana,BA
+cust_002639,uniq_001012,41594,campinas,SP
+cust_002640,uniq_001503,50972,caxias do sul,RS
+cust_002641,uniq_002101,69896,maringa,PR
+cust_002642,uniq_002310,30990,contagem,MG
+cust_002643,uniq_001404,84705,brasilia,DF
+cust_002644,uniq_000105,48462,ribeirao preto,SP
+cust_002645,uniq_001577,72370,brasilia,DF
+cust_002646,uniq_001734,12365,porto alegre,RS
+cust_002647,uniq_000150,18224,florianopolis,SC
+cust_002648,uniq_002084,45902,uberlandia,MG
+cust_002649,uniq_000513,37255,salvador,BA
+cust_002650,uniq_002270,50115,campo grande,MS
+cust_002651,uniq_001404,16682,duque de caxias,RJ
+cust_002652,uniq_000821,47886,blumenau,SC
+cust_002653,uniq_000149,68985,maringa,PR
+cust_002654,uniq_000045,73116,niteroi,RJ
+cust_002655,uniq_001890,25568,recife,PE
+cust_002656,uniq_000961,35098,ribeirao preto,SP
+cust_002657,uniq_002142,53012,juiz de fora,MG
+cust_002658,uniq_000587,52279,santos,SP
+cust_002659,uniq_002346,79390,sorocaba,SP
+cust_002660,uniq_002401,39638,feira de santana,BA
+cust_002661,uniq_000259,67422,santos,SP
+cust_002662,uniq_001649,88490,campinas,SP
+cust_002663,uniq_002396,30538,sao paulo,SP
+cust_002664,uniq_000823,82473,duque de caxias,RJ
+cust_002665,uniq_000172,33953,joinville,SC
+cust_002666,uniq_002232,34104,goiania,GO
+cust_002667,uniq_001208,65682,sao paulo,SP
+cust_002668,uniq_000069,62556,juiz de fora,MG
+cust_002669,uniq_002142,55396,rio de janeiro,RJ
+cust_002670,uniq_001731,23891,uberlandia,MG
+cust_002671,uniq_000179,10542,niteroi,RJ
+cust_002672,uniq_000659,90984,campinas,SP
+cust_002673,uniq_000046,87524,duque de caxias,RJ
+cust_002674,uniq_002434,88779,contagem,MG
+cust_002675,uniq_000063,51748,niteroi,RJ
+cust_002676,uniq_002029,88568,rio de janeiro,RJ
+cust_002677,uniq_001303,47862,blumenau,SC
+cust_002678,uniq_001485,8474,londrina,PR
+cust_002679,uniq_002069,20645,sorocaba,SP
+cust_002680,uniq_002282,27987,joinville,SC
+cust_002681,uniq_000324,38322,salvador,BA
+cust_002682,uniq_000045,93965,sorocaba,SP
+cust_002683,uniq_000317,33949,belo horizonte,MG
+cust_002684,uniq_001740,61648,sorocaba,SP
+cust_002685,uniq_001449,27802,maringa,PR
+cust_002686,uniq_000213,64683,campinas,SP
+cust_002687,uniq_000597,57172,pelotas,RS
+cust_002688,uniq_001369,15892,sao paulo,SP
+cust_002689,uniq_001862,46764,niteroi,RJ
+cust_002690,uniq_000875,11434,fortaleza,CE
+cust_002691,uniq_002421,89029,ribeirao preto,SP
+cust_002692,uniq_002530,70708,brasilia,DF
+cust_002693,uniq_001953,94192,varzea grande,MT
+cust_002694,uniq_001158,87685,brasilia,DF
+cust_002695,uniq_002236,22727,ribeirao preto,SP
+cust_002696,uniq_001856,71014,joinville,SC
+cust_002697,uniq_001324,10910,ribeirao preto,SP
+cust_002698,uniq_001131,96098,sao paulo,SP
+cust_002699,uniq_002122,78747,brasilia,DF
+cust_002700,uniq_001420,68366,pelotas,RS
+cust_002701,uniq_000466,99490,rio de janeiro,RJ
+cust_002702,uniq_002549,84843,sao paulo,SP
+cust_002703,uniq_000174,86495,blumenau,SC
+cust_002704,uniq_001772,10912,porto alegre,RS
+cust_002705,uniq_001672,3346,duque de caxias,RJ
+cust_002706,uniq_001494,96148,goiania,GO
+cust_002707,uniq_000132,25874,sao paulo,SP
+cust_002708,uniq_001256,43213,sorocaba,SP
+cust_002709,uniq_002275,5290,belo horizonte,MG
+cust_002710,uniq_000610,62682,sao luis,MA
+cust_002711,uniq_001763,82256,sorocaba,SP
+cust_002712,uniq_002189,84331,campinas,SP
+cust_002713,uniq_002428,58558,ribeirao preto,SP
+cust_002714,uniq_001316,66470,brasilia,DF
+cust_002715,uniq_000800,51857,sorocaba,SP
+cust_002716,uniq_001784,45167,rio de janeiro,RJ
+cust_002717,uniq_001239,55889,campo grande,MS
+cust_002718,uniq_001599,93652,campinas,SP
+cust_002719,uniq_001891,25992,contagem,MG
+cust_002720,uniq_001811,47548,duque de caxias,RJ
+cust_002721,uniq_000619,60561,florianopolis,SC
+cust_002722,uniq_001927,57443,sao paulo,SP
+cust_002723,uniq_001381,4036,campinas,SP
+cust_002724,uniq_002373,29445,campinas,SP
+cust_002725,uniq_001681,64954,curitiba,PR
+cust_002726,uniq_002274,69714,florianopolis,SC
+cust_002727,uniq_002495,73708,sorocaba,SP
+cust_002728,uniq_002535,99144,ribeirao preto,SP
+cust_002729,uniq_001898,67628,goiania,GO
+cust_002730,uniq_001523,58386,santos,SP
+cust_002731,uniq_000301,33879,ribeirao preto,SP
+cust_002732,uniq_000984,37671,contagem,MG
+cust_002733,uniq_001212,82799,sorocaba,SP
+cust_002734,uniq_001990,47401,ribeirao preto,SP
+cust_002735,uniq_001501,71838,duque de caxias,RJ
+cust_002736,uniq_001119,13288,sao paulo,SP
+cust_002737,uniq_000373,13701,rio de janeiro,RJ
+cust_002738,uniq_001825,22331,caxias do sul,RS
+cust_002739,uniq_001101,20319,juiz de fora,MG
+cust_002740,uniq_000092,61091,campinas,SP
+cust_002741,uniq_000724,64073,feira de santana,BA
+cust_002742,uniq_002242,56231,campinas,SP
+cust_002743,uniq_000303,29651,londrina,PR
+cust_002744,uniq_001035,58089,ribeirao preto,SP
+cust_002745,uniq_001305,12823,joinville,SC
+cust_002746,uniq_000213,47810,sao paulo,SP
+cust_002747,uniq_000422,16341,sorocaba,SP
+cust_002748,uniq_002397,8598,duque de caxias,RJ
+cust_002749,uniq_001505,17395,santos,SP
+cust_002750,uniq_000536,12002,campinas,SP
+cust_002751,uniq_000432,48300,caxias do sul,RS
+cust_002752,uniq_001085,55035,feira de santana,BA
+cust_002753,uniq_001845,61130,santos,SP
+cust_002754,uniq_001862,44531,brasilia,DF
+cust_002755,uniq_000497,18463,florianopolis,SC
+cust_002756,uniq_001850,3068,brasilia,DF
+cust_002757,uniq_002285,71536,porto alegre,RS
+cust_002758,uniq_000577,98291,pelotas,RS
+cust_002759,uniq_000066,28819,duque de caxias,RJ
+cust_002760,uniq_002445,21265,juiz de fora,MG
+cust_002761,uniq_001331,31843,goiania,GO
+cust_002762,uniq_001979,22224,sao paulo,SP
+cust_002763,uniq_000816,23126,campinas,SP
+cust_002764,uniq_000762,49958,campinas,SP
+cust_002765,uniq_000573,78734,fortaleza,CE
+cust_002766,uniq_000553,71516,niteroi,RJ
+cust_002767,uniq_001202,96020,porto alegre,RS
+cust_002768,uniq_000269,36378,salvador,BA
+cust_002769,uniq_002147,49756,campo grande,MS
+cust_002770,uniq_001303,38650,santos,SP
+cust_002771,uniq_002333,5160,blumenau,SC
+cust_002772,uniq_001280,39460,brasilia,DF
+cust_002773,uniq_000773,26796,ribeirao preto,SP
+cust_002774,uniq_001313,48393,curitiba,PR
+cust_002775,uniq_000393,16646,campinas,SP
+cust_002776,uniq_002101,74422,contagem,MG
+cust_002777,uniq_001836,84432,rio de janeiro,RJ
+cust_002778,uniq_000375,96119,sorocaba,SP
+cust_002779,uniq_001484,9400,sorocaba,SP
+cust_002780,uniq_001371,12645,sao paulo,SP
+cust_002781,uniq_000512,96680,sorocaba,SP
+cust_002782,uniq_000311,84972,belo horizonte,MG
+cust_002783,uniq_001938,59262,santos,SP
+cust_002784,uniq_000673,32831,ribeirao preto,SP
+cust_002785,uniq_001323,52255,porto alegre,RS
+cust_002786,uniq_000631,54028,porto alegre,RS
+cust_002787,uniq_001666,84886,rio de janeiro,RJ
+cust_002788,uniq_000124,53409,olinda,PE
+cust_002789,uniq_000916,3727,sao paulo,SP
+cust_002790,uniq_001395,70258,salvador,BA
+cust_002791,uniq_001119,77937,campinas,SP
+cust_002792,uniq_001561,30508,maringa,PR
+cust_002793,uniq_000459,12543,varzea grande,MT
+cust_002794,uniq_001126,15078,feira de santana,BA
+cust_002795,uniq_001929,84236,contagem,MG
+cust_002796,uniq_000850,45306,contagem,MG
+cust_002797,uniq_000400,53387,campinas,SP
+cust_002798,uniq_002161,96100,porto alegre,RS
+cust_002799,uniq_001984,7051,maringa,PR
+cust_002800,uniq_001735,21387,campo grande,MS
+cust_002801,uniq_002034,83490,niteroi,RJ
+cust_002802,uniq_001985,54473,santos,SP
+cust_002803,uniq_001903,3704,belo horizonte,MG
+cust_002804,uniq_001299,70585,campinas,SP
+cust_002805,uniq_000049,14698,ribeirao preto,SP
+cust_002806,uniq_001522,78431,santos,SP
+cust_002807,uniq_000696,79983,londrina,PR
+cust_002808,uniq_001971,82615,campinas,SP
+cust_002809,uniq_001194,47021,sao paulo,SP
+cust_002810,uniq_002308,27514,sorocaba,SP
+cust_002811,uniq_001518,88256,brasilia,DF
+cust_002812,uniq_001403,56317,caxias do sul,RS
+cust_002813,uniq_002344,63906,campinas,SP
+cust_002814,uniq_001211,14515,campinas,SP
+cust_002815,uniq_000957,62728,contagem,MG
+cust_002816,uniq_000947,58428,santos,SP
+cust_002817,uniq_002231,29930,uberlandia,MG
+cust_002818,uniq_001928,76917,duque de caxias,RJ
+cust_002819,uniq_000416,14234,olinda,PE
+cust_002820,uniq_001255,72217,sao paulo,SP
+cust_002821,uniq_000946,96155,caxias do sul,RS
+cust_002822,uniq_001649,57157,sorocaba,SP
+cust_002823,uniq_000133,11374,fortaleza,CE
+cust_002824,uniq_001821,55776,cuiaba,MT
+cust_002825,uniq_001893,53371,curitiba,PR
+cust_002826,uniq_000577,55665,duque de caxias,RJ
+cust_002827,uniq_000384,27984,sorocaba,SP
+cust_002828,uniq_001600,62981,florianopolis,SC
+cust_002829,uniq_000655,27149,londrina,PR
+cust_002830,uniq_002401,56228,santos,SP
+cust_002831,uniq_001976,59863,rio de janeiro,RJ
+cust_002832,uniq_002435,64940,niteroi,RJ
+cust_002833,uniq_001363,79994,feira de santana,BA
+cust_002834,uniq_002393,88370,porto alegre,RS
+cust_002835,uniq_000035,77939,belo horizonte,MG
+cust_002836,uniq_000739,79790,uberlandia,MG
+cust_002837,uniq_000005,87010,campinas,SP
+cust_002838,uniq_001727,25004,ribeirao preto,SP
+cust_002839,uniq_001302,29997,santos,SP
+cust_002840,uniq_000733,53771,florianopolis,SC
+cust_002841,uniq_000777,47108,niteroi,RJ
+cust_002842,uniq_001641,70509,duque de caxias,RJ
+cust_002843,uniq_000459,1924,santos,SP
+cust_002844,uniq_001312,14759,santos,SP
+cust_002845,uniq_001564,74938,uberlandia,MG
+cust_002846,uniq_000611,82373,campinas,SP
+cust_002847,uniq_000582,30931,sao paulo,SP
+cust_002848,uniq_000903,31782,curitiba,PR
+cust_002849,uniq_001510,56587,sao paulo,SP
+cust_002850,uniq_000648,48234,ribeirao preto,SP
+cust_002851,uniq_000967,17760,rio de janeiro,RJ
+cust_002852,uniq_001385,50545,joinville,SC
+cust_002853,uniq_000476,82119,sorocaba,SP
+cust_002854,uniq_001450,73224,maringa,PR
+cust_002855,uniq_000352,81909,olinda,PE
+cust_002856,uniq_000363,64737,belo horizonte,MG
+cust_002857,uniq_000603,87866,niteroi,RJ
+cust_002858,uniq_000730,25732,maringa,PR
+cust_002859,uniq_000076,5547,niteroi,RJ
+cust_002860,uniq_002452,12289,sorocaba,SP
+cust_002861,uniq_000785,99252,duque de caxias,RJ
+cust_002862,uniq_002051,64410,campinas,SP
+cust_002863,uniq_002299,25529,sao paulo,SP
+cust_002864,uniq_002041,85554,sao paulo,SP
+cust_002865,uniq_002119,31633,campinas,SP
+cust_002866,uniq_000255,60130,campinas,SP
+cust_002867,uniq_000948,25683,contagem,MG
+cust_002868,uniq_001902,10393,olinda,PE
+cust_002869,uniq_001468,27485,santos,SP
+cust_002870,uniq_000014,23588,contagem,MG
+cust_002871,uniq_001446,55712,duque de caxias,RJ
+cust_002872,uniq_002051,3048,ribeirao preto,SP
+cust_002873,uniq_002113,24741,sorocaba,SP
+cust_002874,uniq_000978,57208,campinas,SP
+cust_002875,uniq_000602,39982,sorocaba,SP
+cust_002876,uniq_000789,63957,santos,SP
+cust_002877,uniq_000755,65904,sao paulo,SP
+cust_002878,uniq_000883,96571,rio de janeiro,RJ
+cust_002879,uniq_000769,83765,sao paulo,SP
+cust_002880,uniq_001165,23593,sorocaba,SP
+cust_002881,uniq_000104,69580,sao paulo,SP
+cust_002882,uniq_000701,63095,duque de caxias,RJ
+cust_002883,uniq_000802,59837,ribeirao preto,SP
+cust_002884,uniq_000391,80098,niteroi,RJ
+cust_002885,uniq_002238,15624,sorocaba,SP
+cust_002886,uniq_001722,38142,sorocaba,SP
+cust_002887,uniq_002325,81794,caucaia,CE
+cust_002888,uniq_001432,89323,santos,SP
+cust_002889,uniq_000279,4690,campinas,SP
+cust_002890,uniq_002306,47674,sao paulo,SP
+cust_002891,uniq_001168,27154,varzea grande,MT
+cust_002892,uniq_001745,17627,juiz de fora,MG
+cust_002893,uniq_000972,6648,contagem,MG
+cust_002894,uniq_001260,54266,cuiaba,MT
+cust_002895,uniq_001247,67074,sorocaba,SP
+cust_002896,uniq_000725,53594,sao luis,MA
+cust_002897,uniq_001414,37468,campinas,SP
+cust_002898,uniq_001871,77358,contagem,MG
+cust_002899,uniq_000051,65552,niteroi,RJ
+cust_002900,uniq_000333,90933,sao paulo,SP
+cust_002901,uniq_002147,35355,recife,PE
+cust_002902,uniq_001452,24657,sao paulo,SP
+cust_002903,uniq_002482,46117,campo grande,MS
+cust_002904,uniq_001541,51179,sorocaba,SP
+cust_002905,uniq_001666,46337,juiz de fora,MG
+cust_002906,uniq_002292,83407,belem,PA
+cust_002907,uniq_001684,5512,santos,SP
+cust_002908,uniq_000840,53248,recife,PE
+cust_002909,uniq_001346,43591,uberlandia,MG
+cust_002910,uniq_000600,21875,caxias do sul,RS
+cust_002911,uniq_000852,64464,campinas,SP
+cust_002912,uniq_001734,80331,niteroi,RJ
+cust_002913,uniq_000379,55058,caxias do sul,RS
+cust_002914,uniq_001713,9410,niteroi,RJ
+cust_002915,uniq_001489,8453,sorocaba,SP
+cust_002916,uniq_000786,42741,campinas,SP
+cust_002917,uniq_000114,67136,salvador,BA
+cust_002918,uniq_001796,32037,santos,SP
+cust_002919,uniq_002102,31577,porto alegre,RS
+cust_002920,uniq_001861,86150,campo grande,MS
+cust_002921,uniq_001073,2429,campinas,SP
+cust_002922,uniq_001666,8893,ribeirao preto,SP
+cust_002923,uniq_001057,16403,caxias do sul,RS
+cust_002924,uniq_000913,98374,santos,SP
+cust_002925,uniq_000834,50257,juiz de fora,MG
+cust_002926,uniq_000537,16670,porto alegre,RS
+cust_002927,uniq_002471,31729,uberlandia,MG
+cust_002928,uniq_001698,96971,sao paulo,SP
+cust_002929,uniq_000446,69743,caxias do sul,RS
+cust_002930,uniq_002205,23145,belo horizonte,MG
+cust_002931,uniq_000385,24824,sorocaba,SP
+cust_002932,uniq_001513,8420,uberlandia,MG
+cust_002933,uniq_000422,77506,brasilia,DF
+cust_002934,uniq_000921,14602,belo horizonte,MG
+cust_002935,uniq_001679,29360,rio de janeiro,RJ
+cust_002936,uniq_002547,35488,sao paulo,SP
+cust_002937,uniq_002529,62464,campinas,SP
+cust_002938,uniq_002283,61024,campinas,SP
+cust_002939,uniq_000600,80121,ribeirao preto,SP
+cust_002940,uniq_000238,30429,varzea grande,MT
+cust_002941,uniq_002309,39169,sorocaba,SP
+cust_002942,uniq_002354,39473,blumenau,SC
+cust_002943,uniq_000710,5633,sorocaba,SP
+cust_002944,uniq_000048,74018,santos,SP
+cust_002945,uniq_001652,54008,campinas,SP
+cust_002946,uniq_000194,48091,ribeirao preto,SP
+cust_002947,uniq_000103,99544,florianopolis,SC
+cust_002948,uniq_002389,18705,caucaia,CE
+cust_002949,uniq_001263,96929,brasilia,DF
+cust_002950,uniq_000285,68356,sorocaba,SP
+cust_002951,uniq_001669,22880,curitiba,PR
+cust_002952,uniq_000941,68172,ribeirao preto,SP
+cust_002953,uniq_001367,75813,aparecida de goiania,GO
+cust_002954,uniq_002292,36884,niteroi,RJ
+cust_002955,uniq_000606,35149,campinas,SP
+cust_002956,uniq_001648,83682,campinas,SP
+cust_002957,uniq_002112,16866,sao paulo,SP
+cust_002958,uniq_001080,2320,campinas,SP
+cust_002959,uniq_002473,66924,aparecida de goiania,GO
+cust_002960,uniq_001143,90746,joinville,SC
+cust_002961,uniq_001170,50585,belem,PA
+cust_002962,uniq_002254,14362,santos,SP
+cust_002963,uniq_001621,54383,juiz de fora,MG
+cust_002964,uniq_002215,25936,sao paulo,SP
+cust_002965,uniq_002015,82911,rio de janeiro,RJ
+cust_002966,uniq_001816,61597,sorocaba,SP
+cust_002967,uniq_000615,34317,ribeirao preto,SP
+cust_002968,uniq_001017,62830,contagem,MG
+cust_002969,uniq_002204,67041,sorocaba,SP
+cust_002970,uniq_001570,68194,niteroi,RJ
+cust_002971,uniq_000714,37252,contagem,MG
+cust_002972,uniq_000834,57491,campinas,SP
+cust_002973,uniq_001978,5229,olinda,PE
+cust_002974,uniq_000454,40950,duque de caxias,RJ
+cust_002975,uniq_000285,38423,florianopolis,SC
+cust_002976,uniq_001951,53932,contagem,MG
+cust_002977,uniq_000735,95052,pelotas,RS
+cust_002978,uniq_001951,95399,porto alegre,RS
+cust_002979,uniq_001360,48842,brasilia,DF
+cust_002980,uniq_002544,64967,belo horizonte,MG
+cust_002981,uniq_001338,11714,santos,SP
+cust_002982,uniq_002212,48743,ribeirao preto,SP
+cust_002983,uniq_002168,69094,contagem,MG
+cust_002984,uniq_000540,68596,campinas,SP
+cust_002985,uniq_002540,96373,sorocaba,SP
+cust_002986,uniq_001901,47157,santos,SP
+cust_002987,uniq_000273,90885,rio de janeiro,RJ
+cust_002988,uniq_000015,97891,sao paulo,SP
+cust_002989,uniq_000692,57623,juiz de fora,MG
+cust_002990,uniq_000041,10056,blumenau,SC
+cust_002991,uniq_000911,38251,salvador,BA
+cust_002992,uniq_002540,76706,campinas,SP
+cust_002993,uniq_001221,58486,rio de janeiro,RJ
+cust_002994,uniq_000060,93694,belo horizonte,MG
+cust_002995,uniq_001259,81776,rio de janeiro,RJ
+cust_002996,uniq_000558,7259,contagem,MG
+cust_002997,uniq_002183,86261,sao paulo,SP
+cust_002998,uniq_000230,36379,sao luis,MA
+cust_002999,uniq_001964,82064,sao paulo,SP
